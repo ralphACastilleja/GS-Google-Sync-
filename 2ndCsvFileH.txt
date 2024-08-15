@@ -1,0 +1,5 @@
+Waltham,35.0,144376979457,Jan-18-22 19:45:17 PST,parts,Vintage Waltham Mechanical Chronograph Aircraft Clock Movement A13A for Parts
+Waltham,400.0,144934620231,Feb-07-23 06:41:33 PST,parts,Vintage Waltham BU Aero US Navy Civil Date Mechanical Aircraft Clock for Parts
+ETA,45.0,134826565136,,parts,New ETA Quartz Chronograph 251.251 Watch Parts (Wheels
+ETA,205.0,134826644813,Nov-25-23 16:19:44 PST,parts,New Sealed ETA Quartz Chronograph 251.262 Watch Parts (Electronic Module)
+ETA,20.0,134826702064,Nov-25-23 17:09:55 PST,parts,New Sealed ETA Quartz Chronograph 956.412 Watch Parts (Electronic Module)

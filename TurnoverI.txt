@@ -1,0 +1,14 @@
+133398279440,Collet,Sherline Collet,Collet,Apr-29-20 11:49:10 PDT,Jun-04-24,1496 days, Name of item: 12.0
+133398283908,Collet,Sherline Collet,Collet,Apr-29-20 11:54:12 PDT,May-28-24,1489 days, Name of item: 12.0
+
+Average Turnover Times per Brand:
+Sherline Collet: 1492.5 days
+
+Average Turnover Times per Brand:
+Sherline Collet: 1492.5 days
+
+Average Turnover Times per Brand:
+Sherline Collet: 1492.5 days
+
+Average Turnover Times per Brand:
+Sherline Collet: 1492.5 days

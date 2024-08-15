@@ -1,0 +1,562 @@
+Movado,395.0,133948326518,Nov-28-21 19:01:46 PST,pocket watch,Vintage Movado Tiffany and Co. Manual Wind Pocket Watch Movement Caliber 545
+Ball,60.0,145058549511,Apr-29-23 07:25:08 PDT,pocket watch,Antique 0 Size Ball Queen 17 Jewel Mechanical Hunter Pocket Watch Movement Runs
+Ball,45.0,145094031439,May-20-23 12:22:54 PDT,pocket watch,Antique Keystone Ball Model Open Face Pocket Watch Case for 16 Size Silveroid
+Ball,120.0,145459936733,Nov-25-23 07:52:00 PST,pocket watch,Antique Ballard's Obelisk Flour Ad Duplex Escapement Pocket Watch Movement
+Ball,185.0,134897208663,Jan-18-24 15:33:59 PST,pocket watch,Antique 16s Ball Brotherhood BRT 17 Jewel Railroad Pocket Watch Waltham 10k GF
+Ball,20.0,135010137294,Apr-08-24 08:20:53 PDT,pocket watch,Antique 18S Ball Hamilton Commercial Standard Pocket Watch Movement 999F
+Ball,750.0,135066820772,May-19-24 14:04:16 PDT,pocket watch,Antique 16 Size Ball Mechanical Open Face Railroad Pocket Watch 999P 10k GF
+Ball,65.0,145785784515,May-19-24 14:04:16 PDT,pocket watch,Antique 16S Ball Union Pacific Overland Case Railroad Pocket Watch Grade 999P
+Ball,60.0,135075355004,May-25-24 13:38:49 PDT,pocket watch,Antique 16 Size Ball 5336 Coin Edge Mechanical Railroad Pocket Watch 435C
+Graham,35.0,134624315901,Jun-22-23 03:31:36 PDT,pocket watch,Antique Ingraham Sentinel Click Secometer Mechanical Pocket Watch USA
+Graham,25.0,134902250986,Jan-22-24 11:03:15 PST,pocket watch,Antique Ingraham Rex Mechanical Dollar Pocket Watch Chrome Runs for Repair
+Graham,100.0,135038854262,Apr-29-24 11:21:51 PDT,pocket watch,Vintage 16S E. Ingraham Co. Sentinel Secometer Mechanical Pocket Watch w Box
+Graham,45.0,135049437392,May-07-24 15:44:06 PDT,pocket watch,Vintage Ingraham Dollar Tower Mechanical Pocket Watch Chrome Plated Two Tone
+Wittnauer,200.0,133993944326,Jan-13-22 17:05:32 PST,pocket watch,Antique Agassiz dist. Wittnauer 21 Jewel Pocket Watch Movement High Grade Rare
+Wittnauer,450.0,135063733771,May-17-24 09:33:40 PDT,pocket watch,Vintage Wittnauer Silhoutte w Date Mechanical Hunter Pocket Watch O11M1
+Ebel,90.0,144789028036,Oct-30-22 09:44:33 PDT,pocket watch,Antique Ebel Carson Pirie Scott 15 Jewel Mechanical Pocket Watch forRepair Swiss
+Cyma,270.0,144980271720,Mar-09-23 11:55:39 PST,pocket watch,Antique 42.5mm Cyma 15 Jewel Mechanical Pocket Watch Sterling Silver Swiss Made
+Cyma,230.0,134928581791,Feb-09-24 08:53:05 PST,pocket watch,Antique CYMA 15 Jewel Mechanical Pocket Watch Ref. 751 Steel for Repair
+Waltham,45.0,144181800828,Sep-02-21 00:23:58 PDT,pocket watch,Antique 8 Size Waltham Royal 13 Jewel Manual Wind Hunter Pocket Watch Movement
+Waltham,125.0,133995158375,Jan-14-22 21:30:52 PST,pocket watch,Antique 12 Size Waltham Royal 17 Jewel Manual Pocket Watch Movement Grade 240
+Waltham,50.0,144386883573,Jan-26-22 15:54:14 PST,pocket watch,Antique 16 Size Waltham 15 Jewel Hunter Pocket Watch Movement Royal for Parts
+Waltham,270.0,134048045270,Mar-08-22 19:03:00 PST,pocket watch,Antique 12 Size Waltham Riverside 17 Jewel Hunter Pocket Watch Movement Runs
+Waltham,30.0,134065684922,Mar-25-22 20:30:43 PDT,pocket watch,Antique 0 Size Waltham Mechanical Pocket Watch 115 Gold Filled Fancy Blue Enamel
+Waltham,35.0,134073478635,Apr-02-22 19:47:31 PDT,pocket watch,Antique 12 Size Waltham Mechanical Pocket Watch Movement Grade 210 for Parts
+Waltham,25.0,134073515917,Apr-02-22 21:00:37 PDT,pocket watch,Antique 0S Waltham Seaside Mechanical Hunter Pocket Watch Movement for Parts
+Waltham,35.0,144486741055,Apr-02-22 22:17:58 PDT,pocket watch,Antique 1 Size Waltham Mechanical Hunter Pocket Watch Movement Gr. G for Parts
+Waltham,525.0,134084330685,Apr-12-22 18:04:27 PDT,pocket watch,Antique 16 Size Waltham Traveler Equity Mechanical Pocket Watch Movement
+Waltham,35.0,144503676973,Apr-13-22 19:57:33 PDT,pocket watch,Antique Lot of 12 Size Waltham Mechanical Pocket Watch Movements for Parts
+Waltham,125.0,134091401884,Apr-19-22 14:32:03 PDT,pocket watch,Antique 16 Size Waltham Pocket Watch Movement Grade 22 w Canadian Dial Runs
+Waltham,30.0,134091622156,Apr-19-22 18:51:19 PDT,pocket watch,Antique 9/0 Size Waltham Bracelet 15 Jewel Mechanical Pocket Watch Movement
+Waltham,800.0,134091622736,Apr-19-22 18:52:50 PDT,pocket watch,Antique 8 Size Waltham W.M Ellery Hunter Pocket Watch Movement w Fancy Gilt Dial
+Waltham,750.0,134099758280,Apr-27-22 16:33:16 PDT,pocket watch,Antique 16 Size Early U.S. Watch Co. Waltham Pocket Watch Movement for Parts
+Waltham,75.0,144527153855,Apr-27-22 16:51:18 PDT,pocket watch,Antique 6 Size Waltham Mechanical Hunter Pocket Watch Movement Grade J for Parts
+Waltham,275.0,144529306105,Apr-28-22 22:30:39 PDT,pocket watch,Antique 16 Size Waltham Mechanical Pocket Watch Movement Grade 8 for Parts
+Waltham,20.0,134166450516,Jul-06-22 21:38:59 PDT,pocket watch,Antique 6Size Waltham Mechanical Hunter Pocket Watch Movement Grade E for Repair
+Waltham,70.0,144638098055,Jul-07-22 15:07:19 PDT,pocket watch,Antique 10 Size Waltham P.S. Bartlett 15 Jewel Key Wind Pocket Watch Movement
+Waltham,40.0,144640482275,Jul-09-22 17:11:18 PDT,pocket watch,Antique 18 Size Waltham Hunter Pocket Watch Movement Grade 1 w Fancy Gold Gilt
+Waltham,75.0,144642943389,Jul-11-22 20:52:25 PDT,pocket watch,Antique 14Size Waltham Hillside Key Wind Hunter Pocket Watch Sterling Silver ALD
+Waltham,65.0,144642945223,Jul-11-22 20:57:49 PDT,pocket watch,Antique 14 Size Waltham Crescent Garden Key Wind Hunter Pocket Watch Coin Silver
+Waltham,20.0,134177723357,Jul-20-22 09:25:11 PDT,pocket watch,Antique 14 Size Waltham Hillside 13Jewel Mechanical Hunter Pocket Watch Movement
+Waltham,40.0,134177735086,Jul-20-22 09:42:47 PDT,pocket watch,Antique 14 Size Waltham 15 Jewel Pocket Watch Movement Grade 418 for Parts
+Waltham,20.0,144725345257,Sep-19-22 18:29:34 PDT,pocket watch,Antique 8 Size Waltham Royal Mechanical Hunter Pocket Watch Movement for Repair
+Waltham,65.0,144725374803,Sep-19-22 18:54:02 PDT,pocket watch,Antique 8 Size Waltham W.M. Ellery Mechanical Hunter Pocket Watch Movement
+Waltham,175.0,144737810882,Sep-26-22 14:18:44 PDT,pocket watch,Antique Waltham Century Swing Out Pocket Watch Case for 18 Size Silver Clad
+Waltham,45.0,144755315989,Oct-05-22 21:05:54 PDT,pocket watch,Antique 12 Size Waltham Mechanical Pocket Watch Movement Grade 210 for Parts
+Waltham,20.0,134313298995,Nov-03-22 17:28:03 PDT,pocket watch,Antique 6 Size Waltham Mechanical Hunter Pocket Watch Movement Grade G for Parts
+Waltham,70.0,134321107447,Nov-09-22 09:22:14 PST,pocket watch,Antique 8 Size Waltham Riverside Mechanical Pocket Watch Movement for Parts
+Waltham,40.0,144838883331,Dec-03-22 11:03:46 PST,pocket watch,Antique 10 Size Early 1866 Waltham P.S. Bartlett Key Wind Pocket Watch Movement
+Waltham,75.0,134400146887,Jan-05-23 06:33:16 PST,pocket watch,Antique 12 Size Waltham 17 Jewel Mechanical Pocket Watch Movement Grade 237
+Waltham,65.0,134427418858,Jan-27-23 12:05:37 PST,pocket watch,Antique 6 Size Waltham Mechanical Pocket Watch Movement Grade G w Fancy GiltDial
+Waltham,20.0,134429289949,Jan-29-23 05:22:29 PST,pocket watch,Antique 0 Size Waltham Mechanical Hunter Pocket Watch Movement Grade 60
+Waltham,40.0,134435525050,Feb-03-23 04:19:07 PST,pocket watch,Antique 18 Size Waltham Vanguard 23 Jewel Mechanical Railroad Pocket Watch Runs
+Waltham,20.0,144931724052,Feb-05-23 03:58:47 PST,pocket watch,Vintage 12S Waltham Premier Colonial 17J Mechanical Pocket Watch 217 10k GF
+Waltham,65.0,144934621259,Feb-07-23 06:43:20 PST,pocket watch,Antique 3/0 Size Waltham Molly Stark Mechanical Hunter Pocket Watch Movement #4
+Waltham,175.0,134449383511,Feb-13-23 06:46:12 PST,pocket watch,Antique 12 Size Waltham Colonial Riverside 21 Jewel Mechanical Pocket Watch 221
+Waltham,205.0,144952563990,Feb-19-23 04:56:18 PST,pocket watch,Antique 0 Size Waltham Mechanical Pocket Watch 161 Gold Filled w GuillocheFinish
+Waltham,45.0,144959433608,Feb-23-23 16:31:16 PST,pocket watch,Antique 18S Waltham P.S. Bartlett 17J Mechanical Hunter Pocket Watch Movement
+Waltham,20.0,134477684682,Mar-06-23 06:53:04 PST,pocket watch,Antique 8 Size Waltham Royal Mechanical Hunter Pocket Watch Movement #2 f Repair
+Waltham,70.0,134479000834,Mar-07-23 06:19:38 PST,pocket watch,Antique 12 Size Waltham 17 Jewel Mechanical Pocket Watch Movement Grade 1217
+Waltham,20.0,134491559602,Mar-15-23 18:02:47 PDT,pocket watch,Antique Appleton Tracy & Co. 15 Jewel Mechanical Pocket Watch Movement Waltham
+Waltham,40.0,144989558377,Mar-15-23 18:16:41 PDT,pocket watch,Antique 18S Waltham 15 Jewel Manual Hunter Pocket Watch Movement w FancyGiltDial
+Waltham,120.0,145023651542,Apr-06-23 13:57:36 PDT,pocket watch,Antique 18 Size Waltham Key Wind Pocket Watch Movement Grade 602 for Repair
+Waltham,75.0,145040373835,Apr-17-23 13:07:39 PDT,pocket watch,Antique 16Size Waltham Mechanical Pocket Watch Movement Grade 22 w FancyGiltDial
+Waltham,65.0,145046381423,Apr-21-23 11:08:39 PDT,pocket watch,Antique 12 Size Waltham Mechanical Hunter Config. Pocket Watch Grade 210 Nickel
+Waltham,40.0,145048012302,Apr-22-23 12:19:21 PDT,pocket watch,Antique 12S Waltham Secometer 17J Pocket Watch 1235 14k White Gold Filled Rare
+Waltham,20.0,145082355340,May-14-23 05:06:06 PDT,pocket watch,Antique 1 Size Waltham Seaside G 9 Jewel Mechanical Hunter Pocket Watch Movement
+Waltham,40.0,134572396119,May-14-23 16:13:00 PDT,pocket watch,Antique 18 Size Waltham 11 Jewel Mechanical Hunter Config. Pocket Watch Grade 3
+Waltham,20.0,145083169779,May-14-23 16:14:16 PDT,pocket watch,Antique 6 Size Waltham Mechanical Hunter Config. Pocket Watch Grade L Chrome
+Waltham,20.0,134577746818,May-18-23 21:46:27 PDT,pocket watch,Antique 18 Size Waltham W.M. Ellery 11 Jewel Mechanical Pocket Watch Coin Silver
+Waltham,65.0,145108333067,May-28-23 15:35:26 PDT,pocket watch,Antique 18 Size Waltham P.S. Bartlett Key Wind Hunter Pocket Watch Coin Silver
+Waltham,100.0,134592650857,May-30-23 20:04:16 PDT,pocket watch,Antique 14 Size Waltham Hillside 14 Jewel Chronograph Pocket Watch Movement
+Waltham,175.0,134606792177,Jun-10-23 05:05:44 PDT,pocket watch,Antique 18 Size Waltham Appleton Tracy & Co. 15J Hunter Pocket Watch Movement
+Waltham,205.0,145131684336,Jun-10-23 19:49:31 PDT,pocket watch,Antique 10Size 1868 Waltham P.S. Bartlett 15Jewel Key Wind Pocket Watch Movement
+Waltham,35.0,134610719127,Jun-13-23 04:34:18 PDT,pocket watch,Antique 12 Size Waltham Secometer 21 Jewel Pocket Watch Movement Riverside
+Waltham,45.0,145139828923,Jun-15-23 14:43:37 PDT,pocket watch,Vintage 16 Size Waltham 16-A WW2 Era Mechanical Pocket Watch Grade 1617 forParts
+Waltham,90.0,145191948462,Jul-15-23 19:12:33 PDT,pocket watch,Antique 18 Size Waltham 15J Manual Pocket Watch Grade 820 Swing Out w Gilt Dial
+Waltham,20.0,134656762562,Jul-16-23 17:21:59 PDT,pocket watch,Antique 3/0 Size Waltham Mechanical Pocket Watch Movement Grade 361 Incomplete
+Waltham,70.0,145212313219,Jul-27-23 14:34:25 PDT,pocket watch,Antique 12S Waltham Secometer Pocket Watch 14k GF from New York Stock Exchange
+Waltham,20.0,145232729484,Aug-08-23 09:21:24 PDT,pocket watch,Antique 0 Size Waltham Seaside Mechanical Hunter Pocket Watch Movement forRepair
+Waltham,40.0,134703108543,Aug-25-23 10:11:24 PDT,pocket watch,Antique 16 Size Waltham Canadian Dial 17 Jewel Mechanical Pocket Watch 630 Runs
+Waltham,120.0,145263223930,Aug-25-23 10:11:25 PDT,pocket watch,Antique 6S Waltham Seaside Hunter Pocket Watch Gold Filled w Horseshoe Engraving
+Waltham,100.0,134703108868,Aug-25-23 10:12:02 PDT,pocket watch,Antique 8 Size Waltham W.M. Ellery Key Wind Pocket Watch Movement for Parts
+Waltham,75.0,145263224461,Aug-25-23 10:12:02 PDT,pocket watch,Antique 0 Size Waltham Mechanical Hunter Pocket Watch Movement Grade 60 Runs
+Waltham,155.0,145263224677,Aug-25-23 10:12:17 PDT,pocket watch,Antique Waltham Hunter Pocket Watch Case for 18 Size Key Wind #2 Coin Silver
+Waltham,75.0,145282701122,Sep-05-23 14:57:31 PDT,pocket watch,Antique Waltham P.S. Bartlett 17 Jewel Mechanical Hunter Pocket Watch Movement
+Waltham,65.0,134716452059,Sep-05-23 14:57:48 PDT,pocket watch,Antique 18S Waltham Mechanical Hunter Pocket Watch Movement Grade 3 for Repair
+Waltham,40.0,134720174130,Sep-08-23 15:17:48 PDT,pocket watch,Antique 14 Size Waltham Bond St. Mechanical Demi HunterPocket Watch Gold Filled
+Waltham,20.0,145305301915,Sep-16-23 17:04:54 PDT,pocket watch,Antique Waltham BF Bartlett Swiss Fake Key Wind Pocket Watch Movement Rusted
+Waltham,40.0,145305304411,Sep-16-23 17:08:43 PDT,pocket watch,Antique 18 Size Waltham P.S. Bartlett Swiss Fake Pocket Watch Movement Rusted
+Waltham,20.0,134779595061,Oct-23-23 12:21:27 PDT,pocket watch,Antique 10 Size 1862 Waltham 13 Jewel Key Wind Pocket Watch Movement CivilWarEra
+Waltham,20.0,134824898646,Nov-24-23 13:43:50 PST,pocket watch,Antique 16 Size Waltham 7 Jewel Mechanical Pocket Watch Movement Grade 20 USA
+Waltham,20.0,134837122870,Dec-02-23 11:50:27 PST,pocket watch,Antique 14 Size Waltham Royal 17 Jewel Mechanical Pocket Watch Movement USA
+Waltham,65.0,145475937672,Dec-02-23 11:50:49 PST,pocket watch,Antique 12s Waltham 7 Jewel Mechanical Pocket Watch Movement 210 USA for Repair
+Waltham,100.0,134841014226,Dec-05-23 05:46:38 PST,pocket watch,Antique 6s Waltham U.S. Watch Co. Mechanical Hunter Pocket Watch Movement 66
+Waltham,175.0,134841628880,Dec-05-23 16:47:58 PST,pocket watch,Antique Waltham Seaside Mechanical Hunter Pocket Watch 14k Goldw Fancy Guilloche
+Waltham,205.0,145482939571,Dec-05-23 16:49:47 PST,pocket watch,Antique 18s Waltham Multicolor Mechanical Hunter Pocket Watch Movement G. 18 USA
+Waltham,35.0,134848814761,Dec-11-23 15:24:33 PST,pocket watch,Antique Waltham 2 1/2 Oz Pocket Watch Case for 18 Size Key Wind Coin Silver
+Waltham,20.0,134861031057,Dec-21-23 15:47:42 PST,pocket watch,Antique 12s Waltham 17 Jewel Mechanical Pocket Watch Movement Grade 1235 USA
+Waltham,45.0,134864832024,Dec-25-23 02:59:06 PST,pocket watch,Antique 6s Waltham 11 Jewel Hunter Pocket Watch Movement W w O'hara Dial f Parts
+Waltham,20.0,134865353018,Dec-25-23 13:43:30 PST,pocket watch,Antique 16s Waltham 7 Jewel Mechanical Pocket Watch Movement Export for Repair
+Waltham,60.0,145548403589,Jan-11-24 10:45:25 PST,pocket watch,Antique 16s Waltham 15 Jewel Mechanical Pocket Watch Grade 24 Gold Filled
+Waltham,20.0,145550309176,Jan-12-24 09:30:36 PST,pocket watch,Antique 6s Waltham 15 Jewel Mechanical Hunter Pocket Watch Movement Seaside USA
+Waltham,50.0,145550792534,Jan-12-24 14:45:14 PST,pocket watch,Antique 12s Waltham 15 Jewel Mechanical Hunter Pocket Watch Movement 220 USA
+Waltham,25.0,145552185341,Jan-13-24 09:35:36 PST,pocket watch,Antique 16s Waltham 15 Jewel Mechanical Pocket Watch Movement Grade 24  USA
+Waltham,20.0,145553527118,Jan-14-24 07:12:15 PST,pocket watch,Antique 18s Appleton Tracy &Co. 15Jewel Mechanical Pocket Watch Movement Waltham
+Waltham,110.0,134902077837,Jan-22-24 08:05:01 PST,pocket watch,Antique American Waltham Pocket Watch Case for 18 Size Nickel Incomplete
+Waltham,20.0,134913732040,Jan-30-24 12:43:15 PST,pocket watch,Antique Waltham 3 Oz Open Face Pocket Watch Case for 18 Size Coin Silver
+Waltham,120.0,134915373475,Jan-31-24 16:32:45 PST,pocket watch,Antique Waltham Hunter Pocket Watch Case for 18 Size Key Wind Sterling Silver
+Waltham,90.0,145592199224,Feb-03-24 12:25:28 PST,pocket watch,Antique 0 Size Waltham Mechanical Pocket Watch Movement Grade 110 for Repair
+Waltham,55.0,145616595938,Feb-16-24 11:06:34 PST,pocket watch,Antique 18 Size Waltham William Ellery Mechanical Pocket Watch Movement forParts
+Waltham,20.0,145616596155,Feb-16-24 11:06:50 PST,pocket watch,Antique 18S Waltham Mechanical Pocket Watch Movement Grade Sterling for Parts
+Waltham,70.0,134944254367,Feb-19-24 10:42:17 PST,pocket watch,Antique 18S Waltham Mechanical Hunter Pocket Watch Movement Grade 18 for Parts
+Waltham,20.0,145623793178,Feb-20-24 09:04:02 PST,pocket watch,Antique 18Size Waltham P.S. Bartlett 15J Mechanical Hunter Pocket Watch Movement
+Waltham,20.0,134996574489,Mar-28-24 12:31:58 PDT,pocket watch,Antique 16 Size Waltham Pocket Watch Grade Riverside Gold Filled Beaded Style
+Waltham,35.0,145719877675,Apr-11-24 13:49:19 PDT,pocket watch,Antique 16 Size Waltham P.S. Bartlett Mechanical Hunter Pocket Watch Movement
+Waltham,40.0,145719877678,Apr-11-24 13:49:20 PDT,pocket watch,Antique 12S Waltham Mechanical Open Face Pocket Watch Movement Grade No. 210
+Waltham,120.0,145719940922,Apr-11-24 14:18:43 PDT,pocket watch,Antique 14 Size Waltham Bond St. Mechanical Open Face Pocket Watch Movement
+Waltham,20.0,145719942706,Apr-11-24 14:20:53 PDT,pocket watch,Antique 18S Waltham Broadway Key Wind Hunter Config. Pocket Watch Movement
+Waltham,100.0,145722119602,Apr-12-24 15:34:59 PDT,pocket watch,Antique 12S Waltham Pinstripe Art Deco Square Pocket Watch Movement No. 210
+Waltham,75.0,135031246400,Apr-23-24 12:53:18 PDT,pocket watch,Antique 18 Size Waltham 4 Ounce Key Wind Pocket Watch W.W.Co. Coin Silver Runs
+Waltham,155.0,135031246402,Apr-23-24 12:53:19 PDT,pocket watch,Antique 6 Size Waltham Stag & Cabin Hunter Pocket Watch Seaside Gold Filled
+Waltham,75.0,145741045906,Apr-23-24 12:53:18 PDT,pocket watch,Antique 18S 1865 Waltham Key Wind Hunter Pocket Watch Ellery GFPost Civil War
+Waltham,65.0,135032532423,Apr-24-24 11:14:15 PDT,pocket watch,Antique 0 Size Waltham Seaside Mechanical Open Face Pocket Watch Movement
+Waltham,20.0,135035533871,Apr-26-24 14:50:19 PDT,pocket watch,Antique 18S Waltham Vanguard w Canadian Dial Open Face Pocket Watch Movement
+Waltham,30.0,145758962309,May-04-24 14:57:23 PDT,pocket watch,Antique 18S Waltham Mechanical Open Face Pocket Watch Movement No.1 American
+Waltham,40.0,135048082619,May-06-24 15:05:01 PDT,pocket watch,Antique 0S Waltham Multicolor Mechanical Hunter Pocket Watch Movement No. 61
+Waltham,20.0,135048082621,May-06-24 15:05:01 PDT,pocket watch,Antique 12S Waltham Secometer Mechanical Pocket Watch Movement No. 1235 USA
+Waltham,40.0,145766222732,May-08-24 15:15:01 PDT,pocket watch,Antique 16 Size Waltham Mechanical Hunter Pocket Watch Movement No. 625 USA
+Waltham,20.0,135054031928,May-10-24 15:55:56 PDT,pocket watch,Antique 18S 1864 Waltham Civil War Key Wind Hunter Pocket Watch Ellery Plated
+Waltham,20.0,135060723508,May-15-24 15:37:18 PDT,pocket watch,Antique 0S Waltham Multicolor O'Hara Open Face Pocket Watch No. 60 14k GF
+Waltham,20.0,145778392257,May-15-24 15:41:04 PDT,pocket watch,Antique 18S Waltham Appleton Tracy & Co. Hunter Railroad Pocket Watch 10k GF
+Waltham,65.0,135062435389,May-16-24 15:50:43 PDT,pocket watch,Antique 18S Waltham O'Hara Dial & Scalloped Case Pocket Watch 84 Gold Filled
+Waltham,100.0,135063733811,May-17-24 09:33:45 PDT,pocket watch,Antique 12 Size Waltham Fixed Bow Pocket Watch Grade 220 14k White Gold Filled
+Waltham,175.0,135063987279,May-17-24 13:48:42 PDT,pocket watch,Antique 12 Size Waltham 17 Jewel Mechanical Pocket Watch Movement Grade 250
+Waltham,205.0,135066765768,May-19-24 13:03:02 PDT,pocket watch,Antique 18S Waltham 4 Ounce Key Wind Open Face Pocket Watch Ellery Coin Silver
+Waltham,35.0,145785719268,May-19-24 13:03:01 PDT,pocket watch,Antique 18S Waltham Coin Center Key Wind Pocket Watch P.S. Bartlett Coin Silver
+Waltham,20.0,145785719272,May-19-24 13:03:02 PDT,pocket watch,Antique 18S Waltham 4 Oz Key Wind Hunter Pocket Watch P.S. Bartlett Coin Silver
+Waltham,25.0,145785719273,May-19-24 13:03:02 PDT,pocket watch,Antique 18 Size Waltham Canadian Dial Key Wind Pocket Watch Broadway Oresilver
+Waltham,20.0,135066765915,May-19-24 13:03:06 PDT,pocket watch,Antique 18S Waltham Gold Stag Back w Canadian Dial Pocket Watch P.S. Bartlett
+Waltham,45.0,145785719390,May-19-24 13:03:11 PDT,pocket watch,Antique 18S Waltham Two Tone Mechanical Pocket Watch P.S. Bartlett Beaded Case
+Waltham,20.0,145785719449,May-19-24 13:03:16 PDT,pocket watch,Antique 18 Size 1906 Waltham Coin Edge Mechanical Pocket Watch No. 85 Oresilver
+Waltham,20.0,145785719450,May-19-24 13:03:16 PDT,pocket watch,Antique 18S 1877 Waltham Key Wind Open Face Pocket Watch Broadway Silverine
+Waltham,20.0,135069760399,May-21-24 14:05:51 PDT,pocket watch,Antique 16 Size Waltham Boxcar Dial Mechanical Pocket Watch Movement Grade 610
+Waltham,20.0,135069760402,May-21-24 14:05:51 PDT,pocket watch,Vintage 16S Waltham Vanguard 23 Jewel Railroad Pocket Watch Movement Runs
+Waltham,70.0,135069760434,May-21-24 14:05:54 PDT,pocket watch,Antique 18 Size 1873 Waltham P.S. Bartlett Key Wind Pocket Watch Movement
+Waltham,100.0,135069794106,May-21-24 14:51:07 PDT,pocket watch,Antique 6S Waltham O'Hara Dial Hunter Pocket Watch Movement Grade X Rare Runs
+Waltham,60.0,135072683876,May-23-24 14:35:48 PDT,pocket watch,Antique 12 Size Waltham Mechanical Open Face Pocket Watch Movement No. 220 USA
+Waltham,20.0,135072683881,May-23-24 14:35:49 PDT,pocket watch,Antique 18S 1904 Waltham 17 Jewel Mechanical Pocket Watch Movement No. 85 USA
+Waltham,50.0,135074140555,May-24-24 14:56:18 PDT,pocket watch,Antique 18S Waltham Anti-Magnetic Shield Swing Out Pocket Watch Case Nickel
+Waltham,25.0,145794855652,May-24-24 14:56:22 PDT,pocket watch,Antique 16 Size Waltham Salesman Open Face Pocket Watch Case Nickel American
+Waltham,20.0,135075355072,May-25-24 13:38:54 PDT,pocket watch,Antique 18 Size Waltham Seagull w HMS Hunter Pocket Watch No. 820 Coin Silver
+Waltham,400.0,145796665740,May-25-24 13:38:54 PDT,pocket watch,Antique 16S Waltham Vanguard 23 Jewel Mechanical Pocket Watch w Salesman Case
+Waltham,110.0,145796665776,May-25-24 13:38:58 PDT,pocket watch,Antique 18S Waltham Santa Fe Route Pocket Watch Crescent St. w Rare Dial
+Waltham,155.0,135075357747,May-25-24 13:41:37 PDT,pocket watch,Antique 0S Waltham Mechanical Hunter Pocket Watch Seaside 14k GF Beaded Style
+Waltham,20.0,145796668665,May-25-24 13:41:37 PDT,pocket watch,Antique 0S Waltham Fancy Hunter Pocket Watch No. 165 14k TriColor Gold Filled
+Waltham,120.0,145797988685,May-26-24 08:22:44 PDT,pocket watch,Antique 16 Size Waltham Mechanical Hunter Pocket Watch Movement Grade 610 Runs
+Waltham,90.0,145803791424,May-29-24 15:24:32 PDT,pocket watch,Antique 14 Size Waltham Open Face Pocket Watch Case Silver Plated USA
+Waltham,95.0,135082525138,May-30-24 15:12:43 PDT,pocket watch,Antique 18 Size Waltham Hunter Pocket Watch Case for Key Wind Coin Silver USA
+Tissot,75.0,144375519701,Jan-17-22 19:05:14 PST,pocket watch,Antique Tissot & Son Key Wind Pocket Watch Movement Jules Jurgensen Base
+Tissot,80.0,134355679108,Dec-06-22 17:19:51 PST,pocket watch,Antique Tissot&Co. Locle Key Wind Hunter Pocket Watch Sterling Silver Incomplete
+Tissot,75.0,145085893449,May-16-23 05:42:09 PDT,pocket watch,Antique 45mm Tissot & Son 15 Jewel Mechanical Pocket Watch Movement High Grade
+Tissot,80.0,145286879742,Sep-07-23 16:11:15 PDT,pocket watch,Antique 36.5mm Tissot & Co. Locle 11 Jewel Key Wind Pocket Watch Movement Swiss
+Tissot,140.0,134786030963,Oct-28-23 17:13:18 PDT,pocket watch,Vintage Tissot Stylist 17 Jewel Manual Pocket Watch 781-1 Swiss Thin w Gray Dial
+Longines,90.0,133814028469,Jul-09-21 23:54:09 PDT,pocket watch,Antique 18.79ABC Longines Henry Birks Broker 15J Wind Pocket Watch Movement
+Longines,75.0,133892866748,Oct-01-21 20:15:55 PDT,pocket watch,Antique Longines 17J Manual Hunter Pocket Watch Movement 18.95M 17LU w Snail Cam
+Longines,135.0,144315752632,Dec-02-21 12:47:08 PST,pocket watch,Antique Geo Agassiz Longines 15 Jewel Manual Pocket Watch Movement Swiss Rare
+Longines,25.0,144359131190,Jan-05-22 19:15:26 PST,pocket watch,Vintage 1945 Longines WW2 Military 15 Jewel Manual Wind Pocket Watch 37.9 Rare
+Longines,35.0,144359139475,Jan-05-22 19:26:07 PST,pocket watch,Antique Longines Manual Wind Pocket Watch 17.79ABC Runs w Fancy Award Case Back
+Longines,375.0,133993930331,Jan-13-22 16:45:22 PST,pocket watch,Antique Early Longines 17 Jewel Hunter Pocket Watch Movement w Ornate Gilt Dial
+Longines,65.0,144370077660,Jan-13-22 16:49:01 PST,pocket watch,Vintage Longines 17 Jewel Manual Wind Pocket Watch Movement 17L Running
+Longines,270.0,133993934866,Jan-13-22 16:50:33 PST,pocket watch,Antique Longines Manual Wind Pocket Watch Movement 17.89M w Snail Regulator
+Longines,55.0,144432970946,Feb-25-22 18:17:13 PST,pocket watch,Antique Longines 17 Jewel Mechanical Hunter Pocket Watch Movement Rare Runs
+Longines,140.0,144432982219,Feb-25-22 18:35:42 PST,pocket watch,Antique Longines Ghiso Mechanical Pocket Watch Movement 18.89M Rare Military
+Longines,395.0,144432988546,Feb-25-22 18:42:37 PST,pocket watch,Antique Longines Mechanical Hunter Pocket Watch Movement w Micro Regulator
+Longines,350.0,144433009926,Feb-25-22 19:07:46 PST,pocket watch,Antique Unbranded Longines Mechanical Chronograph Pocket Watch Movement Swiss
+Longines,90.0,144433092029,Feb-25-22 20:43:12 PST,pocket watch,Antique Longines Mechanical Hunter Pocket Watch Movement w Snail Cam Regulator
+Longines,280.0,144573314874,May-26-22 18:20:50 PDT,pocket watch,Antique 38.7mm Longines 16 Jewel Mechanical Pocket Watch Movement 18.95M Runs
+Longines,25.0,144573315976,May-26-22 18:23:21 PDT,pocket watch,Antique 45.8mm Longines Private Label Mechanical Hunter Pocket Watch Movement
+Longines,90.0,144573330237,May-26-22 18:34:04 PDT,pocket watch,Antique 43mm Longines Mechanical Hunter Pocket Watch Movement w Snail Cam
+Longines,115.0,134130458160,May-26-22 18:38:31 PDT,pocket watch,Antique 38.3mm Longines 17 Jewel Mechanical Hunter Pocket Watch Movement 18.90
+Longines,575.0,144573334468,May-26-22 18:39:48 PDT,pocket watch,Antique 38.3mm Longines Mechanical Pocket Watch Movement 17.95M w Snail Cam
+Longines,280.0,134170409535,Jul-11-22 20:07:52 PDT,pocket watch,Antique 55mm Early Longines George Agassiz Hunter Pocket Watch Coin Silver Rare
+Longines,25.0,144646111381,Jul-14-22 15:28:19 PDT,pocket watch,Antique 39.5mm Private Label Longines 15 Jewel Hunter Pocket Watch Movement
+Longines,90.0,134172767764,Jul-14-22 15:57:52 PDT,pocket watch,Antique 34.3mm Private Label Longines Mechanical Hunter Pocket Watch Movement
+Longines,115.0,134183329322,Jul-27-22 07:45:35 PDT,pocket watch,Antique 56.7mm Longines Gold Gilt Hunter Pocket Watch Case for 44mm .800 Silver
+Longines,575.0,134186127657,Jul-30-22 12:11:25 PDT,pocket watch,Antique 43mm Longines Private Label Hunter Pocket Watch Movement High Grade
+Longines,280.0,144755333751,Oct-05-22 21:22:23 PDT,pocket watch,Antique 40.8mm Longines Tiffany & Co. Mechanical Hunter Pocket Watch Movement
+Longines,25.0,144782756246,Oct-25-22 17:33:38 PDT,pocket watch,Antique Longines Monarch Express 21J Wind Railroad Hunter Pocket Watch Movement
+Longines,90.0,144824070017,Nov-23-22 15:11:53 PST,pocket watch,Vintage 38mm Unsigned Longines 17 Jewel Mechanical Pocket Watch Movement Swiss
+Longines,115.0,134348002867,Nov-30-22 17:06:38 PST,pocket watch,Antique 18 Size Longines Private Label Mechanical Hunter Pocket Watch Movement
+Longines,575.0,134349179707,Dec-01-22 14:36:01 PST,pocket watch,Antique 18 Size Longines Private Label 17 Jewel Mechanical Pocket Watch Swiss
+Longines,280.0,144843624865,Dec-06-22 17:20:19 PST,pocket watch,Antique Longines Bastogne Private 15 Jewel Mechanical Pocket Watch .800 Silver
+Longines,195.0,134406293930,Jan-09-23 05:48:02 PST,pocket watch,Antique 38mm Private Label Longines 15 Jewel Mechanical Pocket Watch Movement
+Longines,320.0,144930604344,Feb-04-23 09:27:48 PST,pocket watch,Antique Longines 17J Mechanical Hunter Pocket Watch Coin Silver w FancyGilt Dial
+Longines,25.0,144993183065,Mar-18-23 05:52:49 PDT,pocket watch,Antique 40mm Longines Russell's Reliable Keyless Hunter Pocket Watch Movement
+Longines,45.0,145114505615,Jun-01-23 06:00:18 PDT,pocket watch,Antique 18 Size Leys 17 Jewel Mechanical Hunter Pocket Watch Movement Longines
+Longines,80.0,134603214660,Jun-07-23 13:16:29 PDT,pocket watch,Antique 29mm Longines Klune & Floberg Mechanical Hunter Pocket Watch Movement
+Longines,55.0,134612952865,Jun-14-23 13:38:11 PDT,pocket watch,Antique 39.5mm Longines Klee & Groh Mechanical Pocket Watch Movement Incomplete
+Longines,285.0,145196831824,Jul-18-23 17:02:49 PDT,pocket watch,Antique 31.5mm Longines Nacis Constantinople Hunter Pocket Watch Movement Swiss
+Longines,90.0,134663795736,Jul-22-23 10:05:35 PDT,pocket watch,Antique Longines George Agassiz Key Wind Pocket Watch Movement Incomplete
+Longines,115.0,134674775992,Aug-01-23 06:13:41 PDT,pocket watch,Antique 18 Size Longines Private Label 15 Jewel Mechanical Pocket Watch Movement
+Longines,575.0,145242492354,Aug-13-23 22:45:59 PDT,pocket watch,Antique 29.5mm Longines 15Jewel Mechanical Open Face Pocket Watch Movement Swiss
+Longines,280.0,145263223649,Aug-25-23 10:11:04 PDT,pocket watch,Antique Early Longines Mechanical Chronograph Pocket Watch Sterling Incomplete
+Longines,60.0,145263223903,Aug-25-23 10:11:24 PDT,pocket watch,Antique Longines Monarch Express 21J Railroad Pocket Watch + Snail Cam Reg. #2
+Longines,165.0,145263224448,Aug-25-23 10:12:02 PDT,pocket watch,Antique Longines Private Label Mechanical Pocket Watch Movement Swiss High Grade
+Longines,120.0,145280266210,Sep-04-23 07:02:12 PDT,pocket watch,Antique 16 Size Longines Smyth & Ashe 17J Hunter Pocket Watch Movement HighGrade
+Longines,160.0,134720864904,Sep-09-23 06:02:37 PDT,pocket watch,Antique 16 Size Longines Klee & Grom 15 Jewel Hunter Config. Pocket Watch Nickel
+Longines,195.0,134779573296,Oct-23-23 12:00:17 PDT,pocket watch,Antique Longines Mail & Express Hunter Pocket Watch Movement Incomplete forParts
+Longines,75.0,145387148474,Oct-23-23 12:10:55 PDT,pocket watch,Antique Longines 15 Jewel Mechanical Pocket Watch Movement w Sweep Second
+Longines,320.0,145402619978,Oct-30-23 10:25:17 PDT,pocket watch,Vintage Longines Big Sub Mechanical Pocket Watch 17LU / 17.95M 14k Gold Swiss
+Longines,135.0,134826040566,Nov-25-23 07:52:21 PST,pocket watch,Antique 12S Longines 15J Pocket Watch Movement 18.79 w Squiggle Hands Rare Runs
+Longines,1450.0,145514220614,Dec-22-23 11:14:32 PST,pocket watch,Antique 29.5mm Longines Wuesteman Mechanical Hunter Pocket Watch Movement 13.98
+Longines,25.0,145515966549,Dec-23-23 15:23:26 PST,pocket watch,Antique Longines Repousse Knight Mechanical Lever Set Pocket Watch .935 Silver
+Longines,35.0,145517491486,Dec-24-23 17:56:51 PST,pocket watch,Antique 40mm Longines 17Jewel Mechanical Pocket Watch Movement Swiss Made fParts
+Longines,180.0,134864416880,Dec-24-23 17:57:22 PST,pocket watch,Antique 40mm Longines 16 Jewel Mechanical Pocket Watch Movement 18.89M Swiss
+Longines,455.0,145589758570,Feb-02-24 11:16:28 PST,pocket watch,Antique 26mm Longines Bailey Banks & Biddle Mechanical Pocket Watch Movement
+Longines,65.0,145592197836,Feb-03-24 12:23:45 PST,pocket watch,Antique 12 Size Longines Ettenheimer Hunter Pocket Watch Movement for Parts
+Longines,270.0,145651303641,Mar-06-24 09:15:21 PST,pocket watch,Antique 55.8mm Longines Serbian State Railway Mechanical Pocket Watch Incomplete
+Longines,45.0,145762715730,May-06-24 15:05:05 PDT,pocket watch,Antique 12 Size Longines Mechanical Pocket Watch 17.89ABC 14k White Gold Filled
+Longines,80.0,135063987390,May-17-24 13:48:49 PDT,pocket watch,Antique 38mm Unsigned Longines Star Dial 15 Jewel Hunter Pocket Watch Movement
+Longines,55.0,135069760341,May-21-24 14:05:44 PDT,pocket watch,Antique 46mm Longines Mechanical Hunter Pocket Watch Movement Swiss for Parts
+Longines,185.0,135072683985,May-23-24 14:35:57 PDT,pocket watch,Antique 16S Von Guten Bros Mechanical Pocket Watch Movement Longines 19.71
+Longines,285.0,135072683986,May-23-24 14:35:57 PDT,pocket watch,Antique 18S Longines Mechanical Pocket Watch Movement James Mix Swiss Rusted
+Aristo,100.0,144359074148,Jan-05-22 18:26:10 PST,pocket watch,Vintage Aristo Dollar Manual Wind Chronograph Pocket Watch Running Rare
+Rolex,190.0,133907990848,Oct-18-21 18:23:11 PDT,pocket watch,Antique Swiss Rolex Nail Set Pocket Watch Case for Movement 49.5mm Nickel
+Gallet,270.0,134596085689,Jun-02-23 06:47:12 PDT,pocket watch,Antique 29.5mm Gallet & Co. 15 Jewel Mechanical Pocket Watch Movement for Repair
+Bulova,30.0,134703108996,Aug-25-23 10:12:17 PDT,pocket watch,Vintage 49.5mm Bulova Salesman no Movement Hunter Pocket Watch w Multicolor Dial
+Bulova,125.0,145814978352,Jun-04-24 15:38:07 PDT,pocket watch,Antique 12 Size Bulova Mechanical Pocket Watch Movement Swiss Engraved Dial
+Tiffany & Co,85.0,134546026358,Apr-25-23 15:22:27 PDT,pocket watch,Antique 38.7mm Tiffany & Co. by Agassiz Manual Pocket Watch Movement for Repair
+Tiffany & Co,315.0,145124957903,Jun-07-23 03:58:07 PDT,pocket watch,Antique 14 Size Waltham Tiffany & Co. 19J Pocket Watch Movement Riverside fParts
+Tiffany & Co,75.0,145195373189,Jul-17-23 20:06:26 PDT,pocket watch,Antique Agassiz Tiffany & Co. 16 Jewel Hunter Pocket Watch Movement High Grade
+Tiffany & Co,75.0,134659443731,Jul-18-23 17:04:07 PDT,pocket watch,Antique Tiffany & Co. 18 Jewel Pocket Watch Movement Agassiz 3/4 Plate Swiss
+Tiffany & Co,75.0,134659444299,Jul-18-23 17:04:52 PDT,pocket watch,Antique Ed Koehn Tiffany & Co. 18 Jewel Pocket Watch Movement High Grade Runs
+Tiffany & Co,75.0,145249658693,Aug-17-23 19:14:03 PDT,pocket watch,Antique 22mm Agassiz Tiffany & Co. 18 Jewel Mechanical Pocket Watch Movement
+Tiffany & Co,75.0,134703108766,Aug-25-23 10:11:47 PDT,pocket watch,Antique C.H. Meylan Tiffany & Co. 21 Jewel Pocket Watch Movement for Parts
+Monta,150.0,134242740896,Sep-20-22 17:35:19 PDT,pocket watch,Antique Fahy's Montauk R.R. Railroad Swing Out Pocket Watch Case for 16S 10k GF
+Monta,65.0,134750220076,Sep-30-23 15:16:33 PDT,pocket watch,Antique Fahy's Montauk Pocket Watch Case for 12 Size 20 Year Gold Filled #5
+Monta,85.0,145337892592,Oct-01-23 14:43:30 PDT,pocket watch,Antique Fahy's Montauk Pocket Watch Case f 12Size 10k Gold Filled FancyEngraving
+Monta,85.0,134752354713,Oct-02-23 08:43:14 PDT,pocket watch,Antique Fahy's Montauk Pocket Watch Case for 12 Size Gold Filled Beaded Style
+Monta,105.0,145614530999,Feb-15-24 08:40:57 PST,pocket watch,Antique Fahy's Montauk Swing Out Pocket Watch Case for 12 Size Gold Filled
+Monta,90.0,135054032356,May-10-24 15:56:36 PDT,pocket watch,Antique Fahys Montauk Pocket Watch Case for 16 Size 20 Year Gold Filled
+Monta,200.0,145805456259,May-30-24 15:12:31 PDT,pocket watch,Antique 50mm 16S Fahys Montauk R.R. Railroad Pocket Watch Case 50mm 10k GF USA
+Breguet,155.0,133833249800,Jul-29-21 18:44:48 PDT,pocket watch,Antique High Grade Duplex Key Wind Pocket Watch Movement + Breguet Shock System
+Breguet,120.0,133833252890,Jul-29-21 18:51:37 PDT,pocket watch,Antique Key Wind Pocket Watch Movement + Blued Steel Balance & Breguet Shock Sys
+Breguet,525.0,144368793245,Jan-12-22 18:41:30 PST,pocket watch,Antique French Pocket Watch Movement Quarter Repeater w Breguet Shock System
+Breguet,525.0,145263224663,Aug-25-23 10:12:17 PDT,pocket watch,Antique Key Wind Pocket Watch Movement High Grade w Breguet Shock System
+Armitron,55.0,145608506495,Feb-12-24 10:35:14 PST,pocket watch,Antique Armitron Bird Dial Quartz Hunter Pocket Watch Gold Tone Swiss Made
+Oris,25.0,134670861163,Jul-28-23 20:09:44 PDT,pocket watch,Antique Oris Open Face Pocket Watch Case for 36mm Nickel Swiss Made
+Patek Philippe,650.0,144244644485,Oct-12-21 15:37:08 PDT,pocket watch,Antique 38.7mm Tiffany & Co. by Patek Philippe Manual Wind Pocket Watch Movement
+Patek Philippe,435.0,144433020279,Feb-25-22 19:19:41 PST,pocket watch,Antique Patek Philippe 17 Jewel Mechanical Pocket Watch Movement for Parts
+Patek Philippe,430.0,144782673224,Oct-25-22 16:20:23 PDT,pocket watch,Antique Tiffany & Co. Patek Philippe Dead Second Pocket Watch Movement for parts
+Patek Philippe,24000.0,134568760302,May-11-23 14:10:07 PDT,pocket watch,Antique Tiffany & Co. Split Second 5 Minute Repeater Pocket Watch Patek Philippe
+Patek Philippe,305.0,145196806070,Jul-18-23 16:30:51 PDT,pocket watch,Antique Patek Philippe Key Wind Cylinder Escapement Pocket Watch Movement
+Geneva,120.0,144370068890,Jan-13-22 16:40:15 PST,pocket watch,Antique Hoffmann Geneva 15 Jewel Hunter Pocket Watch Movement Gold Capped
+Geneva,480.0,144616917010,Jun-23-22 10:34:14 PDT,pocket watch,Antique 44.8mm Star Geneva Mechanical Hunter Pocket Watch Movement High Grade
+Geneva,70.0,134417351611,Jan-18-23 17:26:27 PST,pocket watch,Antique Joseph Gilbert Geneva Key Wind Hunter Pocket Watch Sterling Incomple
+Geneva,60.0,134659443973,Jul-18-23 17:04:24 PDT,pocket watch,Antique 50mm Dimier A Geneva Key Wind Cylinder Escapement Pocket Watch Movement
+Geneva,165.0,134741139388,Sep-23-23 13:22:12 PDT,pocket watch,Antique Huguenin Geneva Key Wind Hunter Pocket Watch Coin Silver w Guilloche
+Geneva,35.0,145548651134,Jan-11-24 13:49:35 PST,pocket watch,Antique 38mm Ernest Duval Geneva Key Wind Pocket Watch Movement Swiss Made
+Ulysse Nardin,200.0,134703108550,Aug-25-23 10:11:24 PDT,pocket watch,Antique Ulysse Nardin 19 Jewel Mechanical Pocket Watch Platinum Runs High Grade
+Omega,245.0,144370103353,Jan-13-22 17:18:05 PST,pocket watch,Antique Geo Brodnax by Omega 17 Jewel Manual Pocket Watch Movement for Parts
+Omega,40.0,134273708706,Oct-10-22 11:41:49 PDT,pocket watch,Antique Solorex Record 17Jewel Pocket Watch wOmega Base Caliber Gold Filled Runs
+Omega,65.0,134409364105,Jan-11-23 12:51:35 PST,pocket watch,Antique 29.3mm Regina Omega Mechanical Hunter Pocket Watch Movement Swiss
+Omega,245.0,134409364856,Jan-11-23 12:52:14 PST,pocket watch,Antique 25.8mm Welsh & Bro by Omega 15 Jewel Mechanical Pocket Watch Movement
+Omega,475.0,144989542856,Mar-15-23 18:00:24 PDT,pocket watch,Antique Regina Omega 17 Jewel Mechanical Pocket Watch Movement w Rare Finish
+Omega,40.0,145116642634,Jun-02-23 06:47:41 PDT,pocket watch,Antique 40mm Omega Levy Hermanos 15Jewel Mechanical Hunter Pocket Watch Movement
+Omega,25.0,145189341487,Jul-14-23 09:17:00 PDT,pocket watch,Antique 32.5mm Unsigned Omega 15 Jewel Mechanical Pocket Watch Gun Metal Swiss
+Omega,65.0,145273069991,Aug-31-23 08:51:13 PDT,pocket watch,Antique Omega Mechanical Hunter Pocket Watch Movement Swiss Made for Repair
+Omega,245.0,145460898843,Nov-25-23 17:32:45 PST,pocket watch,Antique 43mm Unsigned Omega 17 Jewel Mechanical Pocket Watch Movement Incomplete
+Omega,425.0,145796666453,May-25-24 13:39:49 PDT,pocket watch,Antique 18S Regina Nanaimo Canadian Dial Mechanical Pocket Watch Omega
+Omega,475.0,135079637651,May-28-24 15:18:06 PDT,pocket watch,Antique Omega Blue Indices Hunter Pocket Watch Savolainen 10k GF w Beaded Case
+Breitling,220.0,134654305055,Jul-15-23 07:05:35 PDT,pocket watch,Vintage Breitling Wakmann Military Chronograph Pocket Watch Valjoux 5 Chrome
+IWC,40.0,134483575652,Mar-10-23 06:42:50 PST,pocket watch,Antique 42mm Hy Henry Moser 15 Jewel Manual Hunter Pocket Watch Movement IWCBase
+IWC,40.0,144984265220,Mar-12-23 07:08:34 PDT,pocket watch,Antique IWC International Co. 17 Jewel Mechanical Hunter Pocket Watch Movement
+IWC,40.0,145124957619,Jun-07-23 03:57:38 PDT,pocket watch,Antique IWC International Co. Mechanical Pocket Watch Movement Runs for Repair
+IWC,40.0,145125800980,Jun-07-23 13:16:46 PDT,pocket watch,Antique 27mm IWC International Co. Mechanical Pocket Watch Movement Swiss
+IWC,270.0,134658442208,Jul-17-23 20:06:27 PDT,pocket watch,Antique International Watch Co. / IWC 15 Jewel Pocket Watch Movement Caliber 53
+IWC,270.0,134739414465,Sep-22-23 09:27:09 PDT,pocket watch,Antique Ulysse Nardin Army Corps of Engineers Pocket Watch IWC H6 .800 Silver
+IWC,40.0,145753913575,May-01-24 11:54:30 PDT,pocket watch,Antique 13 Size IWC Marchand Pallweber Jump Hour Hunter Pocket Watch Silver
+IWC,40.0,145789475819,May-21-24 14:05:39 PDT,pocket watch,Antique 44mm IWC / International JWC Mechanical Hunter Pocket Watch Movement
+IWC,270.0,135069760337,May-21-24 14:05:43 PDT,pocket watch,Antique 43mm IWC / International Mechanical Pocket Watch Movement Caliber 49
+IWC,270.0,145789475912,May-21-24 14:05:44 PDT,pocket watch,Antique 43mm IWC / International Jones Pattern S Pocket Watch Movement Swiss
+Hamilton,22.5,133458742893,Jul-06-20 16:19:40 PDT,pocket watch,Vintage Watchmakers 10 Pocket Watch Movement Holder Hamilton Factory white
+Hamilton,120.0,144786892017,Oct-28-22 16:27:58 PDT,pocket watch,Antique 18 Size Hamilton 17 Jewel Mechanical Hunter Pocket Watch Grade 935 GF
+Hamilton,290.0,145080336996,May-12-23 18:10:22 PDT,pocket watch,Antique 18S Hamilton GG Bigger Vancouver Canadian Dial 17J Pocket Watch 926 Runs
+Hamilton,255.0,134578674072,May-19-23 15:32:45 PDT,pocket watch,Vintage 16 Size Hamilton 21Jewel Mechanical Railroad Pocket Watch 992 GoldFilled
+Hamilton,245.0,134581835121,May-22-23 10:12:20 PDT,pocket watch,Antique 12 Size Hamilton Pocket Watch 912 White Gold Filled Pin Stripe Case&Dial
+Hamilton,90.0,134602581763,Jun-07-23 03:59:36 PDT,pocket watch,Antique Hamilton Salesman Open Face Pocket Watch Case for 16 Size Nickel
+Hamilton,160.0,134703108753,Aug-25-23 10:11:47 PDT,pocket watch,Antique 18 Size Hamilton Hunter Pocket Watch Grade 925 Gold Filled Runs BoxHinge
+Hamilton,70.0,145263225084,Aug-25-23 10:13:01 PDT,pocket watch,Antique 12 Size Hamilton 17 Jewel Mechanical Pocket Watch Movement Grade 916
+Hamilton,295.0,145323770885,Sep-25-23 05:18:55 PDT,pocket watch,Antique Hamilton Salesman Open Face Pocket Watch Case for 18 Size Nickel
+Hamilton,280.0,134779608937,Oct-23-23 12:33:29 PDT,pocket watch,Antique Wiseman Hamilton Scotland Key Wind Fusee Pocket Watch Movement
+Hamilton,240.0,145433702541,Nov-13-23 14:50:16 PST,pocket watch,Antique Hamilton Salesman Open Face Pocket Watch Case for 18 Size Nickel
+Hamilton,245.0,145453935500,Nov-22-23 14:22:01 PST,pocket watch,Antique 12S Hamilton 17 Jewel Mechanical Pocket Watch Movement 914 USA forRepair
+Hamilton,430.0,134828503134,Nov-26-23 19:26:22 PST,pocket watch,Antique 16S Hamilton 21J Mechanical Railroad Pocket WatchMovement 992 Montgomery
+Hamilton,925.0,145485108771,Dec-06-23 20:39:03 PST,pocket watch,Antique 16s Hamilton 17Jewel Hunter Pocket WatchMovement 975 USA Wrong Dial Runs
+Hamilton,65.0,134863300118,Dec-23-23 15:26:55 PST,pocket watch,Antique Hamilton 9131 USS U.S. Steel 17 Jewel Mechanical Pocket Watch 892 Swiss
+Hamilton,95.0,134865353126,Dec-25-23 13:43:46 PST,pocket watch,Antique 16s Hamilton M.F. Wood 17 Jewel Mechanical Pocket Watch Movement 974
+Hamilton,870.0,145550313284,Jan-12-24 09:31:54 PST,pocket watch,Antique 10 Size Hamilton 21 Jewel Mechanical Pocket Watch Grade 921 14k Gold
+Hamilton,120.0,134906510283,Jan-25-24 08:03:13 PST,pocket watch,Antique 16s 1913 Hamilton 21 Jewel Mechanical Hunter Config. Pocket Watch 993
+Hamilton,345.0,134971324095,Mar-09-24 11:15:28 PST,pocket watch,Antique 16 Size Hamilton 2 19 Jewel Mechanical Railroad Pocket Watch 996 Runs
+Hamilton,1700.0,134971324097,Mar-09-24 11:15:28 PST,pocket watch,Antique 16 Size 1911 Hamilton Mechanical Pocket Watch Grade 954 Rare Stag Case
+Hamilton,165.0,145656788438,Mar-09-24 11:15:28 PST,pocket watch,Antique 16 Size 1916 Hamilton Mechanical Railroad Pocket Watch 996 GFGuilloche
+Hamilton,165.0,145656788441,Mar-09-24 11:15:28 PST,pocket watch,Antique 16 Size 1905 Hamilton Mechanical Railroad Pocket Watch 990 Guilloche
+Hamilton,45.0,145656788453,Mar-09-24 11:15:29 PST,pocket watch,Antique 16 Size Hamilton Mechanical Railroad Pocket Watch Grade 990 Rare Case
+Hamilton,25.0,134974033650,Mar-11-24 14:20:48 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Pocket Watch 974 Special Chrome Locomotive
+Hamilton,95.0,134974033651,Mar-11-24 14:20:47 PDT,pocket watch,Antique 16S 1917 Hamilton Montgomery Mechanical Railroad Pocket Watch 996 GF
+Hamilton,75.0,145660315660,Mar-11-24 14:20:48 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Railroad Pocket Watch 972 10k Gold Filled
+Hamilton,60.0,145660315663,Mar-11-24 14:20:48 PDT,pocket watch,Antique 16S Hamilton 23 Jewel Mechanical Railroad Pocket Watch 971 14k GF
+Hamilton,25.0,134975041446,Mar-12-24 08:20:39 PDT,pocket watch,Antique 12 Size 1934 Hamilton Mechanical Pocket Watch Grade 912 14k GF Enamel
+Hamilton,190.0,145692807421,Mar-28-24 12:31:09 PDT,pocket watch,Antique 16S Hamilton B.J. Co. Railroad Special Pocket Watch 972 Gold Filled
+Hamilton,100.0,135007970646,Apr-06-24 15:46:01 PDT,pocket watch,Antique 18 Size Hamilton 17 Jewel Mechanical Pocket Watch Movement Grade 926
+Hamilton,55.0,145708165624,Apr-06-24 15:46:01 PDT,pocket watch,Antique 16S Hamilton Bunn Special Mod 9 Mechanical Pocket Watch Movement
+Hamilton,95.0,135010137293,Apr-08-24 08:20:53 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Open Face Pocket Watch Movement 974
+Hamilton,195.0,145715558466,Apr-09-24 13:23:42 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Pocket Watch Movement Grade 974 & 941
+Hamilton,165.0,135016827887,Apr-13-24 04:55:53 PDT,pocket watch,Antique 16S Hamilton Mechanical Open Face Pocket Watch Movement Grade 4992B
+Hamilton,60.0,135031241527,Apr-23-24 12:49:28 PDT,pocket watch,Antique 18 Size Hamilton Mechanical Hunter Pocket Watch Movement Grade 925
+Hamilton,60.0,145741045911,Apr-23-24 12:53:19 PDT,pocket watch,Antique 18 Size Hamilton Mechanical Hunter Pocket Watch 925 10k RGP Fancy Runs
+Hamilton,165.0,135035522354,Apr-26-24 14:38:37 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Railroad Pocket Watch Movement 992 #1
+Hamilton,290.0,135035522355,Apr-26-24 14:38:38 PDT,pocket watch,Antique 16S Hamilton Mechanical Open Face Railroad Pocket Watch Movement 992
+Hamilton,255.0,135036615948,Apr-27-24 14:12:57 PDT,pocket watch,Antique 16 Size Hamilton 21 Jewel Mechanical Railroad Pocket Watch Grade 992
+Hamilton,245.0,145747549938,Apr-27-24 14:15:19 PDT,pocket watch,Antique 18 Size Hamilton 21 Jewel Mechanical Railroad Pocket Watch Grade 940
+Hamilton,100.0,135043038099,May-02-24 15:15:39 PDT,pocket watch,Antique 16S Hamilton Mechanical Railroad Pocket Watch Movement Grade 992 USA
+Hamilton,90.0,135049437341,May-07-24 15:44:02 PDT,pocket watch,Antique 52mm 16 Size Hamilton Salesman Open Face Pocket Watch Case 52mm Nickel
+Hamilton,215.0,145765779948,May-08-24 08:32:17 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Pocket Watch Movement Grade 974 for Repair
+Hamilton,85.0,135055308436,May-11-24 15:51:03 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Railroad Pocket Watch Movement 992 #2
+Hamilton,40.0,135060669638,May-15-24 14:38:52 PDT,pocket watch,Antique 16 Size Hamilton Mechanical Railroad Pocket Watch 974 Special 10k GF
+Hamilton,155.0,135060669640,May-15-24 14:38:52 PDT,pocket watch,Antique 16S Hamilton Railway Special w Model A Case Railroad Pocket Watch 992B
+Hamilton,30.0,145778322858,May-15-24 14:38:53 PDT,pocket watch,Antique 16S Hamilton Train Mechanical Railroad Pocket Watch 992 Chrome Plated
+Hamilton,190.0,135060669668,May-15-24 14:38:56 PDT,pocket watch,Antique 16S Hamilton Railway Special Bar Over Crown Railroad Pocket Watch 992B
+Hamilton,110.0,145778392258,May-15-24 15:41:04 PDT,pocket watch,Antique 16S Hamilton Montgomery Mechanical Railroad Pocket Watch 996 10k GF
+Hamilton,160.0,145782049200,May-17-24 13:48:38 PDT,pocket watch,Antique 10 Size Hamilton 21 Jewel Mechanical Pocket Watch Movement Grade 921
+Hamilton,70.0,135066765914,May-19-24 13:03:06 PDT,pocket watch,Antique 18 Size Hamilton w Salesman Case Mechanical Railroad Pocket Watch 940
+Hamilton,180.0,145785719338,May-19-24 13:03:07 PDT,pocket watch,Antique 16S Hamilton 24 Hour Dial G.C.T. Military Mechanical Pocket Watch 4992B
+Hamilton,180.0,145785784518,May-19-24 14:04:16 PDT,pocket watch,Antique 16 Size Hamilton Railway Special Bar Over Pocket Watch 992B Two-Tone
+Hamilton,75.0,135066820815,May-19-24 14:04:21 PDT,pocket watch,Antique 16 Size Hamilton Salesman Mechanical Open Face Pocket Watch Grade 992
+Hamilton,295.0,135066820816,May-19-24 14:04:21 PDT,pocket watch,Antique 16 Size Hamilton Swing Out Mechanical Pocket Watch Grade 972 14k GF
+Hamilton,280.0,145785784639,May-19-24 14:04:21 PDT,pocket watch,Antique 16S Hamilton Railway Special Montgomery Railroad Pocket Watch 992B
+Hamilton,350.0,135066820886,May-19-24 14:04:28 PDT,pocket watch,Antique 12 Size Hamilton Mechanical Open Face Pocket Watch Grade 916 14k GF
+Hamilton,320.0,135069760290,May-21-24 14:05:39 PDT,pocket watch,Vintage 12 Size Hamilton 23 Jewel Mechanical Pocket Watch Movement Grade 922
+Hamilton,240.0,145789476026,May-21-24 14:05:50 PDT,pocket watch,Antique 10 Size Hamilton Mechanical Pocket Watch Movement Grade 917 USA #1 Runs
+Hamilton,245.0,135069794110,May-21-24 14:51:08 PDT,pocket watch,Antique 16S Hamilton Fogle Military 22 Jewel Pocket Watch Movement 4992B Rare
+Hamilton,430.0,145793150518,May-23-24 14:35:48 PDT,pocket watch,Antique 12S Hamilton Mechanical Open Face Pocket Watch Movement Grade 912 USA
+Hamilton,480.0,135072683952,May-23-24 14:35:53 PDT,pocket watch,Antique 16S Hamilton Mechanical Open Face Pocket Watch Movement Grade 974 USA
+Hamilton,925.0,135075355012,May-25-24 13:38:49 PDT,pocket watch,Antique 16S Hamilton Double Hour Hand Railroad Pocket Watch 974 Base Metal
+Hamilton,80.0,135075355013,May-25-24 13:38:49 PDT,pocket watch,Antique 16S Hamilton Dual Hand Railroad Pocket Watch Grade 992 10k Gold Filled
+Hamilton,40.0,135075355075,May-25-24 13:38:54 PDT,pocket watch,Antique 16S Hamilton 24 Hour Dial G.C.T. Military Pocket Watch 4992B Chrome
+Hamilton,35.0,135075355126,May-25-24 13:38:58 PDT,pocket watch,Antique 16S Hamilton Military Bureau of Ships Navy Comparing Pocket Watch 2974B
+Hamilton,85.0,135076412098,May-26-24 08:22:44 PDT,pocket watch,Antique 16 Size Hamilton 17 Jewel Mechanical Pocket Watch Movement Grade 975
+Hamilton,25.0,135079637649,May-28-24 15:18:06 PDT,pocket watch,Antique 10S Hamilton Mechanical Open Face Pocket Watch 917 10k Rose Gold Filled
+Hamilton,270.0,145805456288,May-30-24 15:12:35 PDT,pocket watch,Antique 16S Hamilton Star Open Face Railroad Pocket Watch Case 10k Gold Filled
+Vacheron Constantin,150.0,144370106415,Jan-13-22 17:27:25 PST,pocket watch,Antique 27mm Unsigned Vacheron Constantin 15 Jewel Manual Pocket Watch Movement
+Vacheron Constantin,180.0,144616940282,Jun-23-22 11:10:28 PDT,pocket watch,Antique 41mm Vacheron Constantin Pocket Watch Movement Incomplete Early
+Vacheron Constantin,425.0,144663895389,Jul-30-22 12:11:11 PDT,pocket watch,Antique 43mm Vacheron Constantin for Bigelow Pocket Watch Movement High Grade
+Vacheron Constantin,250.0,144667141054,Aug-02-22 10:37:22 PDT,pocket watch,Antique 41mm Henry Capt by Vacheron Constantin Pocket Watch Movement High Grade
+Vacheron Constantin,500.0,145044859487,Apr-20-23 11:48:28 PDT,pocket watch,Antique 43mm Vacheron Constantin Pocket Watch Movement w Mustache Regulator
+Elgin,20.0,144452598091,Mar-08-22 19:08:08 PST,pocket watch,Antique 12 Size Elgin 17 Jewel Mechanical Pocket Watch Movement Grade 495 Runs
+Elgin,20.0,144501798482,Apr-12-22 18:27:03 PDT,pocket watch,Antique 16 Size Elgin Mechanical Pocket Watch Movement Grade 105 for Parts
+Elgin,70.0,144513098121,Apr-19-22 13:04:26 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 10 Runs #2
+Elgin,85.0,134091369344,Apr-19-22 13:47:48 PDT,pocket watch,Antique 16 Size Elgin Hunter Pocket Watch Movement Grade 247 w Three Finger
+Elgin,20.0,144525716522,Apr-26-22 21:10:45 PDT,pocket watch,Antique 12 Size Elgin 17 Jewel Pocket Watch Grade 344 14k GF Runs w Fancy Dial
+Elgin,25.0,144529236107,Apr-28-22 20:49:50 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 1
+Elgin,115.0,134100842856,Apr-28-22 20:51:28 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 92  #3
+Elgin,20.0,144529242506,Apr-28-22 21:01:16 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 114 #3
+Elgin,20.0,144529247375,Apr-28-22 21:12:06 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 92 #5
+Elgin,65.0,144529267177,Apr-28-22 21:44:02 PDT,pocket watch,Antique 12 Size Elgin 15 Jewel Mechanical Pocket Watch Movement Grade 315 #8
+Elgin,20.0,134100882803,Apr-28-22 21:58:33 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 5
+Elgin,50.0,134100890405,Apr-28-22 22:11:57 PDT,pocket watch,Antique 18 Size Elgin Hunter Pocket Watch Movement Grade 10 #2 for Repair
+Elgin,285.0,144658592466,Jul-25-22 16:24:05 PDT,pocket watch,Antique 18 Size Elgin G.M. Wheeler 15 Jewel Mechanical Pocket Watch Grade 44
+Elgin,20.0,144727189719,Sep-20-22 13:51:59 PDT,pocket watch,Antique 12 Size Elgin Mechanical Pocket Watch Movement Grade 303 for Parts
+Elgin,95.0,144727321840,Sep-20-22 15:37:54 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 212 for Part
+Elgin,25.0,144727352909,Sep-20-22 15:54:40 PDT,pocket watch,Antique 16S Elgin Hunter Pocket Watch Mvmt 92 w 1900 Paris Olympic Dial American
+Elgin,250.0,134257930646,Sep-30-22 12:22:30 PDT,pocket watch,Antique 18S Elgin B.W. Raymond 17J Railroad Pocket Watch 180 w Gilt Train Back
+Elgin,65.0,144756829294,Oct-06-22 20:24:18 PDT,pocket watch,Antique 18 Size Elgin Key Wind Pocket Watch Grade 87 Coin Silver 5 Ounce
+Elgin,300.0,134277232446,Oct-12-22 13:11:15 PDT,pocket watch,Antique 0 Size Elgin Mechanical Pocket Watch Movement Grade 324 for Repair
+Elgin,350.0,144768823013,Oct-15-22 11:35:06 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 95 for Repair
+Elgin,110.0,134304939530,Oct-28-22 16:34:12 PDT,pocket watch,Antique 6 Size Elgin Mechanical Pocket Watch Grade 286 20 Year Gold Filled Runs
+Elgin,20.0,134324116287,Nov-11-22 11:43:21 PST,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 95 for Repair
+Elgin,85.0,134337766075,Nov-22-22 09:31:27 PST,pocket watch,Antique Illinois Elgin Tivoli Pocket Watch Case for 12 Size 14k Gold Filled
+Elgin,80.0,144836101470,Dec-01-22 14:41:42 PST,pocket watch,Antique 12 Size Elgin 17 Jewel Mechanical Pocket Watch Grade 345 w Fancy Dial
+Elgin,20.0,144838883473,Dec-03-22 11:03:59 PST,pocket watch,Antique 0 Size Elgin Mechanical Pocket Watch Movement Grade 409 for Repair
+Elgin,110.0,144886183342,Jan-04-23 07:56:51 PST,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 118 for Parts
+Elgin,20.0,144909323830,Jan-20-23 06:33:24 PST,pocket watch,Antique Elgin 11 Jewel Mechanical Hunter Config. Pocket Watch Chrome for Parts
+Elgin,25.0,144921654251,Jan-29-23 05:22:47 PST,pocket watch,Antique 6S Elgin Mechanical Hunter Pocket Watch Movement Grade 117  #3 for Parts
+Elgin,250.0,144937481377,Feb-09-23 05:04:42 PST,pocket watch,Antique 18 Size Elgin 15 Jewel Mechanical Hunter Config. Pocket Watch Grade 296
+Elgin,85.0,144938950540,Feb-10-23 03:56:24 PST,pocket watch,Antique 18 Size Elgin 15 Jewel Mechanical Hunter Config. Pocket Watch Grade 142
+Elgin,80.0,144969945408,Mar-02-23 13:43:02 PST,pocket watch,Antique 12 Size Elgin Mechanical Pocket Watch Movement Grade 303 #9 for Parts
+Elgin,20.0,134478998566,Mar-07-23 06:18:29 PST,pocket watch,Antique 12Size Elgin 18J Mechanical Pocket Watch Movement Grade 345 #2 forRepair
+Elgin,115.0,144981891171,Mar-10-23 12:49:06 PST,pocket watch,Antique 12 Size Elgin 17 Jewel Mechanical Pocket Watch Movement Grade 437 fParts
+Elgin,20.0,145019803888,Apr-04-23 04:08:44 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 95 for Parts
+Elgin,25.0,134532597160,Apr-15-23 06:07:46 PDT,pocket watch,Antique Elgin 15 Jewel Mechanical Pocket Watch 130 Gold Filled w Fancy Gilt Dial
+Elgin,80.0,145056135512,Apr-27-23 15:44:29 PDT,pocket watch,Antique 16 Size Elgin B.W. Raymond 19 J Railroad Pocket Watch 455 Steel CoinEdge
+Elgin,95.0,145056138533,Apr-27-23 15:50:00 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Config. Pocket Watch Grade 96 Silverode
+Elgin,70.0,134550151275,Apr-28-23 13:57:20 PDT,pocket watch,Antique 18 Size Elgin H.H. Taylor 15 Jewel Hunter Pocket Watch Movement Grade 33
+Elgin,20.0,134550164197,Apr-28-23 14:07:32 PDT,pocket watch,Antique 18 Size Elgin Key Wind Pocket Watch Movement Grade 97 w Canadian Dial
+Elgin,140.0,134551373166,Apr-29-23 09:34:20 PDT,pocket watch,Antique 12 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 301 forParts
+Elgin,85.0,145077685744,May-11-23 05:09:22 PDT,pocket watch,Antique 6S Elgin Mechanical Hunter Config. Pocket Watch Multi-Color Gilt Dial
+Elgin,65.0,145077686361,May-11-23 05:09:54 PDT,pocket watch,Antique 12S Elgin G.M. Wheeler 17J Manual Pocket Watch 347 14k White GF w Enamel
+Elgin,240.0,134568606319,May-11-23 11:09:43 PDT,pocket watch,Antique 18 Size Elgin H.H. Taylor 15 Jewel Key Wind Pocket Watch 58 Coin Silver
+Elgin,205.0,134570938962,May-13-23 06:12:47 PDT,pocket watch,Antique 16 Size Elgin Hunter Pocket Watch Grade 114 Gold Filled Fancy Box Hinge
+Elgin,50.0,145081952502,May-13-23 20:56:19 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 286 for Parts
+Elgin,20.0,134571584655,May-13-23 21:17:15 PDT,pocket watch,Antique 12 Size Elgin 15 Jewel Mechanical Open Face Pocket Watch Grade 315 GF
+Elgin,290.0,134571850993,May-14-23 05:05:49 PDT,pocket watch,Antique 0 Size Elgin Mechanical Hunter Pocket Watch Movement 109
+Elgin,20.0,145083170872,May-14-23 16:15:14 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement 95 #2 for Repair
+Elgin,110.0,134572399970,May-14-23 16:15:34 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement 95 for Parts
+Elgin,140.0,134573663801,May-15-23 13:55:11 PDT,pocket watch,Antique 16 Size Elgin 15 Jewel Mechanical Pocket Watch Grade 313 Chrome forParts
+Elgin,215.0,145090916252,May-18-23 21:45:35 PDT,pocket watch,Antique 18 Size Elgin 11 Jewel Key Wind Hunter Pocket Watch Grade 13 Coin Silver
+Elgin,20.0,134577750890,May-18-23 21:52:11 PDT,pocket watch,Antique 18 Size Elgin H.H. Taylor 15Jewel Mechanical Hunter Pocket Watch Grade33
+Elgin,80.0,134580541662,May-21-23 06:52:53 PDT,pocket watch,Antique 16S Elgin Father Time 21 Jewel Mechanical Railroad Pocket Watch 454 #2
+Elgin,20.0,134593151758,May-31-23 06:15:08 PDT,pocket watch,Antique 6 Size Elgin 11 Jewel Mechanical Hunter Pocket Watch Movement Grade 94
+Elgin,25.0,145113205218,May-31-23 11:15:26 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 94 for Repair
+Elgin,250.0,134596473459,Jun-02-23 12:48:42 PDT,pocket watch,Antique 6/0 Size Elgin Mechanical Pocket Watch Movement Grade 431 for Repair
+Elgin,85.0,134604305268,Jun-08-23 05:22:08 PDT,pocket watch,Antique 12 Size Elgin Mechanical Pocket Watch Movement Grade 303 for Parts
+Elgin,80.0,145130608879,Jun-10-23 05:05:23 PDT,pocket watch,Antique 18 Size Elgin 11 Jewel Mechanical Pocket Watch Movement Grade 43 Runs
+Elgin,20.0,145136340195,Jun-13-23 15:13:38 PDT,pocket watch,Antique 12 Size Elgin Spaulding & Co. Mechanical Pocket Watch Movement Grade 347
+Elgin,115.0,134611384848,Jun-13-23 15:13:57 PDT,pocket watch,Antique 10 Size Elgin Gail Borden Key Wind Pocket Watch Movement 28
+Elgin,20.0,145139802632,Jun-15-23 14:17:27 PDT,pocket watch,Antique 18 Size Elgin 17 Jewel Pocket Watch 335 Rare Gold Filled Two Piece Runs
+Elgin,25.0,134614414640,Jun-15-23 14:43:51 PDT,pocket watch,Antique 12 Size Elgin 17 Jewel Mechanical Hunter Config. Pocket Watch 344 fParts
+Elgin,20.0,145145978849,Jun-19-23 09:23:43 PDT,pocket watch,Antique 10 Size Elgin Dexter St. Key Wind Pocket Watch Movement 28 for Parts
+Elgin,85.0,134619925798,Jun-19-23 09:23:46 PDT,pocket watch,Antique 10 Size Elgin Dexter St. Key Wind Pocket Watch Movement Grade 28 Runs
+Elgin,20.0,145145979797,Jun-19-23 09:25:18 PDT,pocket watch,Antique 10 Size Elgin Dexter St. Mechanical Pocket Watch Movement 28 #2 forParts
+Elgin,25.0,134623748439,Jun-21-23 15:37:49 PDT,pocket watch,Antique 12 Size Elgin 17Jewel Mechanical Pocket Watch 384 Octagonal wMasonicDial
+Elgin,20.0,145193438372,Jul-16-23 17:20:12 PDT,pocket watch,Antique 10 Size 1877 Elgin Dexter St. Key Wind Pocket Watch Movement for Repair
+Elgin,85.0,134664652735,Jul-23-23 09:11:43 PDT,pocket watch,Antique Elgin Swing Out Mechanical Hunter Config. Pocket Watch 82 Nickel Runs
+Elgin,40.0,145211145820,Jul-26-23 20:29:34 PDT,pocket watch,Antique 0 Size Elgin 17J Mechanical Hunter Pocket Watch Grade 174 10k GF Rare
+Elgin,80.0,145211146411,Jul-26-23 20:30:08 PDT,pocket watch,Antique 12 Size Elgin Mechanical Pocket Watch Grade 303 Silveroid Runs USA
+Elgin,95.0,145220011397,Aug-01-23 06:14:18 PDT,pocket watch,Antique 18 Size Elgin 15Jewel Mechanical Pocket Watch Movement 74 & 141 Partials
+Elgin,70.0,145231636899,Aug-07-23 18:33:21 PDT,pocket watch,Antique 12 Size Elgin Mechanical Pocket Watch Grade 303 Chrome Running Porcelain
+Elgin,20.0,145234840873,Aug-09-23 11:11:46 PDT,pocket watch,Antique 0 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 109 #2
+Elgin,140.0,145240580257,Aug-12-23 20:10:32 PDT,pocket watch,Antique 18 Size Elgin Pocket Watch Grade 309 Silverode for Parts Incomplete
+Elgin,85.0,134695099192,Aug-19-23 05:17:55 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 114  #2
+Elgin,445.0,145252224263,Aug-19-23 05:18:29 PDT,pocket watch,Antique 18 Size Elgin B.W. Raymond 15J Mechanical Hunter Pocket Watch Movement
+Elgin,85.0,145253316432,Aug-19-23 19:45:57 PDT,pocket watch,Antique 18 Size Elgin B.W. Raymond 15J Mechanical Hunter Pocket Watch Movement
+Elgin,65.0,134703108556,Aug-25-23 10:11:25 PDT,pocket watch,Antique 12 Size Elgin 15J Mechanical Hunter Pocket Watch Grade 314 Gold Filled
+Elgin,240.0,134703109328,Aug-25-23 10:13:01 PDT,pocket watch,Antique 16 Size Elgin 13 Jewel Mechanical Hunter Pocket Watch Movement Grade 2
+Elgin,205.0,134703109338,Aug-25-23 10:13:01 PDT,pocket watch,Antique 17 Size Elgin Leader Hunter Pocket Watch Movement Grade 11 for Parts
+Elgin,50.0,145263225073,Aug-25-23 10:13:01 PDT,pocket watch,Antique 17 Size Elgin Leader Hunter Pocket Watch Movement Grade 11 for Parts #2
+Elgin,20.0,145263225081,Aug-25-23 10:13:01 PDT,pocket watch,Antique 17 Size Elgin Leader Hunter Pocket Watch Movement Grade 11 for Parts #3
+Elgin,290.0,134718982559,Sep-07-23 16:06:06 PDT,pocket watch,Antique 16S Elgin 15 Jewel Pocket Watch Grade 158 Gold Filled w Multicolor Dial
+Elgin,20.0,145286876991,Sep-07-23 16:06:32 PDT,pocket watch,Antique 18 Size Elgin 11 Jewel Mechanical Pocket Watch Grade 74 Coin Silver
+Elgin,110.0,134718983780,Sep-07-23 16:08:10 PDT,pocket watch,Antique 18 Size Elgin Mechanical Pocket Watch 379 Sterling Tricolor Gold Plated
+Elgin,140.0,145288803060,Sep-08-23 15:19:38 PDT,pocket watch,Antique 18S Elgin 17J Mechanical Hunter Pocket Watch Grade 307 3oz Coin Silver
+Elgin,215.0,145288803829,Sep-08-23 15:20:30 PDT,pocket watch,Antique 16S Elgin Mechanical Hunter Pocket Watch 210 10k GF w Guilloche Finish
+Elgin,20.0,134730994180,Sep-16-23 17:05:10 PDT,pocket watch,Antique 12 Size Elgin 15J Mechanical Pocket Watch Movement Grade 345 #3 f Parts
+Elgin,80.0,145378361648,Oct-19-23 15:16:08 PDT,pocket watch,Antique Star Elgin 3507 Railroad Pocket Watch Case for 16 Size Stainless Steel
+Elgin,20.0,145398755802,Oct-28-23 17:13:40 PDT,pocket watch,Antique 0 Size Elgin 15J Mechanical Pocket Watch 354 Gold Filled w Stepped Bezel
+Elgin,25.0,145439797349,Nov-16-23 08:58:38 PST,pocket watch,Antique 16S Elgin 17 Jewel Mechanical Pocket Watch Movement 338 USA Three Finger
+Elgin,250.0,134812380936,Nov-16-23 15:15:13 PST,pocket watch,Antique 12S Elgin 7 Jewel Mechanical Pocket Watch Movement 303 USA for Parts
+Elgin,40.0,145440454231,Nov-16-23 15:16:19 PST,pocket watch,Antique 12S Elgin 17 Jewel Mechanical Pocket Watch Movement 345 USA for Parts
+Elgin,85.0,134823573804,Nov-23-23 17:31:19 PST,pocket watch,Antique 12S Lord Elgin 21 Jewel Mechanical Pocket Watch Movement 450 USA Runs
+Elgin,80.0,145456570372,Nov-23-23 18:09:46 PST,pocket watch,Antique 18s Elgin 7 Jewel Mechanical Hunter Pocket Watch Movement 96 for Repair
+Elgin,20.0,134824897747,Nov-24-23 13:43:00 PST,pocket watch,Antique 6s Elgin 7Jewel Mechanical Hunter Pocket Watch Movement 117 USA #2fParts
+Elgin,115.0,145458365301,Nov-24-23 13:43:15 PST,pocket watch,Antique 16 Size Elgin 7Jewel Mechanical Hunter Pocket WatchMovement 290 USA Runs
+Elgin,20.0,145458366754,Nov-24-23 13:43:55 PST,pocket watch,Antique 18s Elgin 11 Jewel Mechanical Pocket Watch Movement 74 USA
+Elgin,25.0,145462210367,Nov-26-23 06:54:01 PST,pocket watch,Antique 18s Elgin Multicolor 7 Jewel Mechanical Pocket Watch Movement 294 USA
+Elgin,20.0,134829388011,Nov-27-23 09:36:44 PST,pocket watch,Antique 16s Elgin Multicolor Mechanical Hunter Pocket Watch Movement 210 Runs
+Elgin,130.0,134835855555,Dec-01-23 14:56:15 PST,pocket watch,Antique 12s Elgin 17 Jewel Mechanical Hunter Pocket Watch Movement 344 USA Runs
+Elgin,80.0,134837123533,Dec-02-23 11:51:10 PST,pocket watch,Antique 16s Elgin 15 Jewel Mechanical Hunter Pocket Watch Movement 257 USA
+Elgin,100.0,145475938871,Dec-02-23 11:52:19 PST,pocket watch,Antique 10/0s Elgin 15 Jewel Mechanical Pocket Watch Movement 426 USA for Repair
+Elgin,20.0,145477417131,Dec-03-23 04:07:17 PST,pocket watch,Antique 18 Size Elgin 7 Jewel Mechanical Pocket Watch Movement 288 USA for Parts
+Elgin,85.0,145479002037,Dec-03-23 21:33:14 PST,pocket watch,Antique 6s Elgin 7 Jewel Mechanical Hunter Pocket Watch Movement 117 USA Runs
+Elgin,20.0,134839634285,Dec-04-23 05:41:48 PST,pocket watch,Antique 8 Size Elgin 15Jewel Mechanical Hunter Pocket Watch Movement 67 USA Runs
+Elgin,20.0,134839634986,Dec-04-23 05:43:16 PST,pocket watch,Antique 6s Elgin 11 Jewel Mechanical Hunter Pocket Watch Movement 94 USA Runs
+Elgin,85.0,134840578569,Dec-04-23 22:09:47 PST,pocket watch,Antique 16s Elgin 15 Jewel Mechanical Hunter Pocket Watch Movement 152 USA Runs
+Elgin,70.0,134843603590,Dec-07-23 03:40:04 PST,pocket watch,Antique 16S Elgin Three Finger 17 Jewel Hunter Config. Pocket Watch 241 10k RGP
+Elgin,25.0,145512752686,Dec-21-23 15:35:51 PST,pocket watch,Antique 16s Elgin 17 Jewel Mechanical Hunter Pocket Watch Movement 141
+Elgin,60.0,145515966759,Dec-23-23 15:24:21 PST,pocket watch,Antique 18s Elgin B.W. Raymond 17 Jewel Mechanical Hunter Pocket Watch 183 GF
+Elgin,1075.0,145520027836,Dec-26-23 13:07:03 PST,pocket watch,Antique 18s Elgin 17 Jewel Mechanical Hunter Pocket Watch Movement Grade 103
+Elgin,20.0,145546676993,Jan-10-24 14:10:50 PST,pocket watch,Antique 16s Elgin B.W. Raymond 21J Mechanical Railroad Pocket Watch 478 10k RGP
+Elgin,20.0,134887739898,Jan-11-24 13:50:33 PST,pocket watch,Antique 0s Elgin 7 Jewel Mechanical Pocket Watch Movement 324 USA #2 for Parts
+Elgin,85.0,134887740251,Jan-11-24 13:51:17 PST,pocket watch,Antique 6s Elgin 15 Jewel Mechanical Hunter Pocket Watch Movement 216 USA
+Elgin,40.0,145552185824,Jan-13-24 09:36:07 PST,pocket watch,Antique 18s Elgin 7 Jewel Key Wind Pocket Watch Movement Grade 7 for Parts
+Elgin,80.0,134890229550,Jan-13-24 09:37:44 PST,pocket watch,Antique 18s Elgin 15Jewel Mechanical Hunter Config. Pocket Watch Movement 82 USA
+Elgin,20.0,134897211002,Jan-18-24 15:37:02 PST,pocket watch,Antique 18s Elgin Veritas 21J Railroad Pocket Watch 274 Gold Filled Montgomery
+Elgin,20.0,134918080628,Feb-02-24 11:16:47 PST,pocket watch,Antique 0 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 320 forRepair
+Elgin,95.0,145589759963,Feb-02-24 11:17:06 PST,pocket watch,Antique 6 Size Elgin 15 Jewel Mechanical Hunter Pocket Watch Movement 216 USA
+Elgin,125.0,145596045461,Feb-05-24 09:04:59 PST,pocket watch,Antique 6/0 Size Elgin Mechanical Pocket Watch Movement Grade 431 for Repair
+Elgin,70.0,145599971467,Feb-07-24 10:17:11 PST,pocket watch,Antique 16 Size Elgin Mechanical Pocket Watch Movement Second at 3 for Parts
+Elgin,20.0,134928981221,Feb-09-24 15:50:53 PST,pocket watch,Antique 18 Size Elgin G.M. Wheeler Transitional 17 Jewel Pocket Watch Grade 63
+Elgin,140.0,134934945086,Feb-13-24 15:33:15 PST,pocket watch,Antique 6 Size Elgin 15 Jewel Mechanical Pocket Watch Movement Grade 67 forParts
+Elgin,195.0,134934945516,Feb-13-24 15:34:04 PST,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 290 f Repair
+Elgin,80.0,134936390980,Feb-14-24 08:09:08 PST,pocket watch,Antique 16 Size Elgin Mechanical Pocket Watch Movement Grade 293 for Repair
+Elgin,120.0,145627178389,Feb-22-24 08:11:52 PST,pocket watch,Antique 18 Size Elgin Mechanical Pocket Watch Movement Grade 287 for Parts
+Elgin,85.0,145627178919,Feb-22-24 08:12:09 PST,pocket watch,Antique 18 Size Elgin 15 Jewel Mechanical Pocket Watch Movement Grade 141
+Elgin,445.0,134951377961,Feb-24-24 11:16:52 PST,pocket watch,Antique 16 Size Elgin Mechanical Pocket Watch Movement Grade 290 for Parts
+Elgin,85.0,145704198050,Apr-04-24 15:37:10 PDT,pocket watch,Antique 10/0S Lady Elgin Mechanical Open Face Pocket Watch Movement 444
+Elgin,775.0,135010137296,Apr-08-24 08:20:53 PDT,pocket watch,Antique 12 Size Elgin Multicolor Open Face Pocket Watch Movement 345
+Elgin,35.0,135014580314,Apr-11-24 13:49:20 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 312
+Elgin,65.0,135016120224,Apr-12-24 15:34:59 PDT,pocket watch,Antique 12 Size Elgin Art Deco Mechanical Open Face Pocket Watch Movement 303
+Elgin,55.0,145722119597,Apr-12-24 15:34:59 PDT,pocket watch,Antique 12S Elgin Art Deco Pinstripe Mechanical Pocket Watch Movement Grade 303
+Elgin,20.0,135016827886,Apr-13-24 04:55:53 PDT,pocket watch,Antique 6 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 295
+Elgin,85.0,135031241531,Apr-23-24 12:49:29 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 103
+Elgin,75.0,135031241533,Apr-23-24 12:49:28 PDT,pocket watch,Antique 18 Size Elgin Mechanical Open Face Pocket Watch Movement Grade 288
+Elgin,20.0,145741040256,Apr-23-24 12:49:28 PDT,pocket watch,Antique 18 Size Elgin Mechanical Open Face Pocket Watch Movement Grade 74
+Elgin,240.0,145741040258,Apr-23-24 12:49:28 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 102
+Elgin,205.0,145742636313,Apr-24-24 11:14:15 PDT,pocket watch,Antique 12S Elgin Art Deco Mechanical Pocket Watch Movement Grade 345
+Elgin,50.0,135036615949,Apr-27-24 14:12:57 PDT,pocket watch,Antique 16 Size Elgin Jitterbug Military Mechanical Pocket Watch Grade 582
+Elgin,20.0,135036677436,Apr-27-24 15:37:01 PDT,pocket watch,Antique Elgin Octagon Mechanical Pocket Watch Grade 121 Chrome Plated Pinstripe
+Elgin,290.0,145747634232,Apr-27-24 15:37:00 PDT,pocket watch,Antique 16 Size Elgin Swing Out Mechanical Pocket Watch Grade 313 Nickel Runs
+Elgin,20.0,135038854092,Apr-29-24 11:21:46 PDT,pocket watch,Antique 16 Size Elgin Mechanical Pocket Watch Grade 299 Gold Filled Guilloche
+Elgin,110.0,135038854101,Apr-29-24 11:21:46 PDT,pocket watch,Antique 16 Size Elgin 17 Jewel Mechanical Pocket Watch 386 Fancy Guilloche
+Elgin,140.0,135043038060,May-02-24 15:15:35 PDT,pocket watch,Antique 16 Size Elgin Mechanical Open Face Pocket Watch Movement Grade 291 USA
+Elgin,215.0,135043038062,May-02-24 15:15:35 PDT,pocket watch,Antique 16 Size Elgin 3 Finger w Multicolor Railroad Pocket Watch Movement 86
+Elgin,395.0,145755641640,May-02-24 15:15:36 PDT,pocket watch,Antique 12 Size Elgin Lord Elgin Mechanical Pocket Watch Movement Grade 451 USA
+Elgin,20.0,145758962311,May-04-24 14:57:23 PDT,pocket watch,Antique 12S Elgin G.M. Wheeler Mechanical Open Face Pocket Watch Movement 452
+Elgin,80.0,135048082617,May-06-24 15:05:01 PDT,pocket watch,Antique 0S Elgin Multicolor dial Mechanical Hunter Pocket Watch Movement 269
+Elgin,40.0,135048082618,May-06-24 15:05:01 PDT,pocket watch,Antique 0S Elgin Multicolor Mechanical Hunter Pocket Watch Movement Grade 130
+Elgin,20.0,135048082620,May-06-24 15:05:01 PDT,pocket watch,Antique 12 Size Elgin Mechanical Open Face Pocket Watch Movement Grade 303 #9
+Elgin,20.0,135049437390,May-07-24 15:44:06 PDT,pocket watch,Antique 16 Size Illinois Elgin Pinstripe Pocket Watch Case Chrome Plated Tivoli
+Elgin,50.0,145765779947,May-08-24 08:32:17 PDT,pocket watch,Antique 16S Elgin Boxcar Dial Mechanical Open Face Pocket Watch Movement 313
+Elgin,230.0,145766222730,May-08-24 15:15:01 PDT,pocket watch,Antique 16 Size Illinois Elgin Swing Out Pocket Watch Case Sterling Silver USA
+Elgin,20.0,145780219663,May-16-24 15:50:43 PDT,pocket watch,Antique 18S Elgin Diamond End Stone Railroad Pocket Watch Veritas Gold Filled
+Elgin,20.0,135063733757,May-17-24 09:33:40 PDT,pocket watch,Antique 16 Size Elgin Pocket Watch Grade 387 Gold Filled w Guilloche Finish
+Elgin,25.0,135063733761,May-17-24 09:33:40 PDT,pocket watch,Antique 0 Size Elgin Tricolor Gold Hunter Pocket Watch Grade 115 Gold Filled
+Elgin,20.0,135063733768,May-17-24 09:33:40 PDT,pocket watch,Antique 12S Elgin Mechanical Hunter Pocket Watch Grade 363 Gold Filled Fancy
+Elgin,50.0,145781783311,May-17-24 09:33:44 PDT,pocket watch,Antique 12 Size Elgin Pocket Watch Grade 315 14k White Gold Filled Runs
+Elgin,85.0,135063733833,May-17-24 09:33:49 PDT,pocket watch,Antique 10S Lord Elgin Roman Dial Mechanical Pocket Watch 543 14k Gold Filled
+Elgin,25.0,135063987236,May-17-24 13:48:37 PDT,pocket watch,Antique 12 Size Elgin G.M. Wheeler Mechanical Pocket Watch Movement 452 Runs
+Elgin,250.0,145782049201,May-17-24 13:48:38 PDT,pocket watch,Antique 12 Size Elgin 17 Jewel Mechanical Pocket Watch Movement Grade 479
+Elgin,40.0,135063987314,May-17-24 13:48:45 PDT,pocket watch,Antique 3/0 Size Elgin 15 Jewel Mechanical Pocket Watch Movement Grade 420 USA
+Elgin,85.0,135066765765,May-19-24 13:03:01 PDT,pocket watch,Antique 18 Size 1869 Elgin H.Z. Culver Key Wind Pocket Watch Grade 62 Silveroid
+Elgin,80.0,135066765916,May-19-24 13:03:06 PDT,pocket watch,Antique 16 Size 1922 Elgin Father Time Railroad Pocket Watch Grade 454 10k GF
+Elgin,20.0,135066765958,May-19-24 13:03:11 PDT,pocket watch,Antique 12 Size Elgin Masonic 15 Jewel Pocket Watch Grade 315 Chrome Plated
+Elgin,115.0,135066766006,May-19-24 13:03:15 PDT,pocket watch,Antique 18 Size Elgin Mechanical Open Face Pocket Watch Grade 294 Silveroid
+Elgin,20.0,145785784521,May-19-24 14:04:16 PDT,pocket watch,Antique 16 Size Elgin B.W. Raymond w Montgomery Dial Railroad Pocket Watch 455
+Elgin,25.0,145785784633,May-19-24 14:04:21 PDT,pocket watch,Antique 16S Elgin B.W. Raymond Railroad Pocket Watch 478 14k White Gold Filled
+Elgin,20.0,145785784635,May-19-24 14:04:21 PDT,pocket watch,Antique 16S Elgin Locomotive Mechanical Open Face Pocket Watch 387 Silverode
+Elgin,95.0,135066820887,May-19-24 14:04:29 PDT,pocket watch,Antique 12 Size 1901 Elgin Mechanical Open Face Pocket Watch Grade 189 14k GF
+Elgin,130.0,145789476053,May-21-24 14:05:54 PDT,pocket watch,Antique 18S Elgin Mechanical Pocket Watch Movement Grade 288 USA for Parts
+Elgin,80.0,135069794041,May-21-24 14:51:04 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 96 USA Runs
+Elgin,100.0,145793150553,May-23-24 14:35:53 PDT,pocket watch,Antique 16S 1925 Elgin 15 Jewel Mechanical Hunter Pocket Watch Movement 312 USA
+Elgin,20.0,145793150554,May-23-24 14:35:53 PDT,pocket watch,Antique 12S Elgin Mechanical Open Face Pocket Watch Movement Grade 303 USA
+Elgin,85.0,145793150584,May-23-24 14:35:57 PDT,pocket watch,Antique 8 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 67 USA
+Elgin,20.0,135075355127,May-25-24 13:38:58 PDT,pocket watch,Antique 16S Elgin B.W. Raymond Railroad Pocket Watch 455 10k White Gold Filled
+Elgin,20.0,145796665774,May-25-24 13:38:58 PDT,pocket watch,Antique 16S Elgin Mechanical Open Face Pocket Watch Grade 313 10k GF Guilloche
+Elgin,85.0,145796665777,May-25-24 13:38:58 PDT,pocket watch,Antique 18S Elgin Veritas 23 Jewel Railroad Pocket Watch 214 Sterling SwingOut
+Elgin,180.0,135075355219,May-25-24 13:39:02 PDT,pocket watch,Antique 16S Elgin Hunter Pocket Watch Grade 82 10k Gold Filled Fancy Guilloche
+Elgin,70.0,135076412095,May-26-24 08:22:43 PDT,pocket watch,Antique 18 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 96 USA Runs
+Elgin,20.0,135076412097,May-26-24 08:22:44 PDT,pocket watch,Antique 16 Size Elgin Mechanical Hunter Pocket Watch Movement Grade 92 USA
+Elgin,95.0,135079637655,May-28-24 15:18:06 PDT,pocket watch,Antique 10 Size Lord Elgin Mechanical Open Face Pocket Watch 543 14k GF w Box
+Elgin,20.0,145802040810,May-28-24 15:18:06 PDT,pocket watch,Antique 0S Elgin Mechanical Hunter Pocket Watch 318 10k TriColor Gold Filled
+Dietrich,1450.0,133986336443,Jan-06-22 12:52:05 PST,pocket watch,Antique Dietrich Gruen Chronometer 21 Jewel Pocket Watch V1 / Version 1 Running
+Dietrich,1450.0,145263224446,Aug-25-23 10:12:02 PDT,pocket watch,Antique Dietrich Gruen & Sons Premo 21 Jewel Mechanical Pocket Watch Movement
+Zodiac,350.0,134130461889,May-26-22 18:46:02 PDT,pocket watch,Antique 40.5mm Zodiac Chronometer 18 Jewel Mechanical Pocket Watch Movement
+Laco,40.0,133993954078,Jan-13-22 17:23:33 PST,pocket watch,Vintage Laco by Girard Perregaux 7 Jewel Manual Wind Pocket Watch Movement AS
+Zenith,70.0,144789026989,Oct-30-22 09:44:09 PDT,pocket watch,Antique Zenith 17 Jewel Mechanical Pocket Watch 14k White Gold Filled Swiss Made
+Zenith,65.0,135069760340,May-21-24 14:05:44 PDT,pocket watch,Antique 29.5mm Porte & Markle Mechanical Hunter Pocket Watch Movement Zenith
+Apple,375.0,144573358236,May-26-22 19:00:53 PDT,pocket watch,Antique 10S Appleton Tracy Pocket Watch Movement w Gold Balance Civil War Era
+Apple,145.0,145552185997,Jan-13-24 09:36:24 PST,pocket watch,Antique 18s Appleton Tracy & Co. 17 Jewel Hunter Pocket Watch Movement Runs
+ETA,25.0,134608429200,Jun-11-23 10:17:29 PDT,pocket watch,Antique Bi-Metal Balance 11 Jewel Key Wind Pocket Watch Movement Swiss Made
+ETA,45.0,134653980153,Jul-14-23 22:32:30 PDT,pocket watch,Antique Unsigned 15 Jewel Mechanical Pocket Watch Gun Metal for Parts Swiss Made
+ETA,120.0,145211141997,Jul-26-23 20:26:27 PDT,pocket watch,Antique Triple Date Moonphase  Pocket Watch Gun Metal Swiss Made Incomplete
+ETA,20.0,134671324357,Jul-29-23 07:30:33 PDT,pocket watch,Antique PF Goliath Pin Set Pocket Watch Case for 55mm Movement Gun Metal Swiss
+ETA,55.0,145216028081,Jul-29-23 20:26:07 PDT,pocket watch,Antique Open Face Pocket Watch Case for 18 Size Gun Metal & Gold Tone
+ETA,160.0,134687061268,Aug-11-23 20:20:46 PDT,pocket watch,Antique Airflight Style Jump Dial 24 Hour Pocket Watch Gun Metal Swiss Rare
+ETA,235.0,134693537108,Aug-17-23 19:15:06 PDT,pocket watch,Antique 38mm Key Wind Pocket Watch Movement Swiss Made w Bimetallic Balance
+ETA,95.0,145316288762,Sep-21-23 16:02:33 PDT,pocket watch,Antique Tempus Mechanical Pocket Watch Gun Metal for Parts Swiss w Black Dial
+ETA,20.0,134805990003,Nov-12-23 09:11:52 PST,pocket watch,Antique Francis Borgel Open Face Pocket Watch Case for 16 Size Gunmetal Rare
+ETA,23.0,134936691865,Feb-14-24 12:12:13 PST,pocket watch,Antique 31mm Xi Open Face Pocket Watch Case for Movement Gun Metal France
+ETA,120.0,135040138609,Apr-30-24 10:45:24 PDT,pocket watch,Antique 15 Size Triple Date Moonphase Cylinder Escapement Pocket Watch Gunmetal
+ETA,60.0,145764379287,May-07-24 15:44:02 PDT,pocket watch,Antique 45mm 12 Size Illinois Spartan Pocket Watch Case 45mm Base Metal USA
+Girard-Perregaux,1600.0,145758962310,May-04-24 14:57:23 PDT,pocket watch,Antique Girard-Perregaux Pivoted Detent Helical Hairspr. Pocket Watch Movement
